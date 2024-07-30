@@ -13,9 +13,9 @@ import json
 with open('manuals.json', 'r') as file:
     carManuals = json.load(file)
 
-nltk.download('stopwords')
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
+# nltk.download('stopwords')
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
 
 def extract_keywords(text):
     # Simple keyword extraction by splitting text into words
@@ -107,6 +107,8 @@ def extract_pdf_page(pdf_path, prompt, response):
     # Extract keywords from the generated text
     response_keywords = extract_keywords(response)
     prompt_keywords = extract_keywords(prompt)
+    print("Response Keywords:", response_keywords)
+    print("Prompt Keywords:", prompt_keywords)
     page_no = find_page_with_max_tokens(pdf_path, response_keywords, prompt_keywords)
     return show_pdf_page(pdf_path, page_no, response_keywords)
 
@@ -130,6 +132,17 @@ st.session_state['product'] = product
 st.write("## Chatbox")
 
 
+def get_common_words(text1, text2):
+    # Tokenize the texts into sets of words
+    words1 = set(text1.split())
+    words2 = set(text2.split())
+    
+    # Find the intersection of the two sets
+    common_words = words1.intersection(words2)
+    
+    # Convert the intersection back to a string
+    return ' '.join(common_words)
+
 
 # Display chat messages from history on app rerun
 for i, message in enumerate(st.session_state.messages):
@@ -140,7 +153,7 @@ for i, message in enumerate(st.session_state.messages):
                 st.image(st.session_state['images'][i], caption=f"Referenced Text")
 
 # React to user input
-if prompt := st.chat_input("What is up?"):
+if prompt := st.chat_input("Enter a prompt"):
     # Display user message in chat message container
     st.chat_message("user").markdown(prompt)
     # Add user message to chat history
@@ -154,7 +167,8 @@ if prompt := st.chat_input("What is up?"):
     if response.status_code == 200:
         response_json = response.json()
         response_text = response_json.get('generated_text', 'No response from API')  # Extract the response text
-
+        rag_text = response_json.get('rag', 'No response from API')
+        score = response_json.get('score', "No score")
 
         # streamlit_text = response_text.split("userPrompt:")[-1].strip().replace("<|begin_of_text|>", "").replace("<|end_of_text|>", "")
         # streamlit_text = f"## Optimized Query:\n{streamlit_text}"
@@ -165,7 +179,7 @@ if prompt := st.chat_input("What is up?"):
         response_text = response_text.split("Response:")[-1].strip().replace("<|begin_of_text|>", "").replace("<|end_of_text|>", "")
 
         # Format the streamlit text
-        streamlit_text = f"## Optimized Query:\n{user_prompt_text}\n## Response:\n{response_text}"
+        streamlit_text = f"Query score: {score}\n## Optimized Query:\n{user_prompt_text}\n## LLM Response:\n{response_text}\n## RAG Response:\n{rag_text}"
 
 
         # # Extract keywords from the generated text
@@ -180,8 +194,11 @@ if prompt := st.chat_input("What is up?"):
         
         # # Show the page with the maximum occurrences of the keywords and highlight them
         # show_pdf_page(pdf_path, max_page, response_keywords)
+        # img = extract_pdf_page(pdf_path, prompt, response_text)
 
-        img = extract_pdf_page(pdf_path, prompt, response_text)
+        # Get the common words between rag_text and response_text
+        # common_text = get_common_words(rag_text, response_text)
+        img = extract_pdf_page(pdf_path, prompt, rag_text+response_text)
 
         with st.chat_message("assistant"):
             # st.markdown(response_text)
