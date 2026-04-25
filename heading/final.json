@@ -1,0 +1,1854 @@
+[
+    {
+        "prompt": "In Tata Punch, what is the function of the brake fluid reservoir?",
+        "response": "The brake fluid reservoir holds brake fluid, which is a hydraulic fluid that transmits pressure from the brake pedal to the brake calipers, stopping your vehicle."
+    },
+    {
+        "prompt": "In Tata Punch, what is the purpose of the dipstick in the engine compartment?",
+        "response": "The dipstick allows you to check the level of engine oil. Engine oil lubricates the moving parts of your engine, reducing friction and wear."
+    },
+    {
+        "prompt": "In Tata Punch, what is the function of the windshield washer container?",
+        "response": "The windshield washer container holds windshield washer fluid, which is used to clean your windshield."
+    },
+    {
+        "prompt": "In Tata Punch, what is the purpose of the engine oil filling cap?",
+        "response": "The engine oil filling cap seals the engine oil filler neck, allowing you to add engine oil to the engine."
+    },
+    {
+        "prompt": "In Tata Punch, what is the function of the radiator cap?",
+        "response": "The radiator cap seals the radiator, which is responsible for cooling the engine by circulating coolant."
+    },
+    {
+        "prompt": "In Tata Punch, what is the purpose of the fuse box in the engine compartment?",
+        "response": "The fuse box contains fuses that protect electrical circuits from overloads."
+    },
+    {
+        "prompt": "In Tata Punch, what is the function of the battery in the engine compartment?",
+        "response": "The battery provides power to start the engine and operate electrical components like headlights and radio."
+    },
+    {
+        "prompt": "In Tata Punch, what is the AMT oil reservoir used for?",
+        "response": "The AMT oil reservoir holds the fluid for the Automated Manual Transmission (AMT). AMT is a type of transmission that combines the features of a manual transmission with the convenience of an automatic transmission. The AMT oil helps lubricate and cool the transmission system."
+    },
+    {
+        "prompt": "In Tata Punch, how does a vacuum-assisted braking system work?",
+        "response": "A vacuum-assisted braking system utilizes engine vacuum to amplify the force applied to the brake pedal. Here's the breakdown:  1. Engine Vacuum: The engine running creates a vacuum in the intake manifold. 2. Vacuum Booster: This vacuum powers the vacuum booster, a component between the brake pedal and the master cylinder. 3. Brake Pedal Pressure: Pressing the brake pedal activates a piston in the vacuum booster. 4. Force Amplification: The vacuum helps push this piston, amplifying the force from the brake pedal. 5. Master Cylinder: This amplified force is transmitted to the master cylinder, pushing brake fluid to the wheels. 6. Braking Action: The brake fluid pressure activates brake calipers, which press brake pads against brake rotors, slowing the wheels and stopping the vehicle."
+    },
+    {
+        "prompt": "In Tata Punch, what factors affect braking distance?",
+        "response": "Braking distance increases with the speed you are traveling. Always be aware of the distance needed to stop and brake gradually."
+    },
+    {
+        "prompt": "In Tata Punch, how do wet brakes affect braking performance?",
+        "response": "Wet brakes, caused by driving through water or washing the car, can be less effective due to moisture. To regain normal braking, test your brakes gently at slow speeds after driving through water or washing your car. Be sure to check traffic conditions before doing this."
+    },
+    {
+        "prompt": "In Tata Punch, what is engine braking and how does it help with downhill driving?",
+        "response": "Engine braking involves shifting to a lower gear when driving downhill. This reduces the load on the brakes, preventing overheating and wear. It helps control the vehicle's speed and reduces the need for constant brake application."
+    },
+    {
+        "prompt": "In Tata Punch, why should you avoid resting your foot on the brake pedal while driving?",
+        "response": "Resting your foot on the brake pedal can cause the braking system to overheat, leading to brake fading (reduced braking effectiveness), increased stopping distance, and potentially even brake failure."
+    },
+    {
+        "prompt": "In Tata Punch, is it safe to press the brake and accelerator pedals simultaneously?",
+        "response": "No, never press the brake and accelerator pedals at the same time. This can cause loss of control and is extremely dangerous."
+    },
+    {
+        "prompt": "In Tata Punch, should I use engine braking on slippery surfaces?",
+        "response": "No, avoid shifting to lower gears for engine braking on slippery surfaces. This can cause the tires to lose traction, increasing the risk of skidding and accidents."
+    },
+    {
+        "prompt": "In Tata Punch, what is the main component that the driver interacts with to control the direction of the vehicle?",
+        "response": "The steering wheel is the main interface for steering. When you turn the wheel, a shaft connected to it rotates."
+    },
+    {
+        "prompt": "In Tata Punch, what is the purpose of the steering column?",
+        "response": "The steering column is a hollow tube that connects the steering wheel to the steering gear. It houses the steering shaft, which transmits the rotation from the wheel to the gear."
+    },
+    {
+        "prompt": "In Tata Punch, what are the two common types of steering gears?",
+        "response": "The two common types of steering gears are rack-and-pinion steering and recirculating ball steering."
+    },
+    {
+        "prompt": "In Tata Punch, what is the most common type of steering gear?",
+        "response": "Rack-and-pinion steering is the most common type, using a rack (a toothed bar) and a pinion (a small gear). When the steering wheel turns, the pinion gear rotates, moving the rack along a linear path."
+    },
+    {
+        "prompt": "In Tata Punch, what is the role of the steering linkage?",
+        "response": "The steering linkage is a system of rods and arms that connects the steering rack to the wheels. When the rack moves, it pushes or pulls the linkage, causing the wheels to turn in the desired direction."
+    },
+    {
+        "prompt": "In Tata Punch, what is the purpose of power steering?",
+        "response": "Power steering systems assist in steering, making it easier to turn the wheels, especially at low speeds. It uses a hydraulic or electric pump to provide assistance, reducing the effort required to steer."
+    },
+    {
+        "prompt": "In Tata Punch, what are some important steering maintenance tips?",
+        "response": "Steering maintenance is crucial for safe and responsive handling. This includes checking fluid levels, inspecting for leaks, checking for wear and tear, and getting alignments."
+    },
+    {
+        "prompt": "In Tata Punch, air Conditioner Not Turning On",
+        "response": "Check the Thermostat: Make sure the thermostat is set to 'Cool' and that the temperature is set lower than the current room temperature. Check the Breaker Box: Ensure the circuit breaker for your air conditioner is not tripped. Check the Power Cord: Make sure the power cord is plugged in securely and that there is no damage to the cord. Check the Filter: A dirty filter can restrict airflow and prevent the AC from turning on. Clean or replace the filter."
+    },
+    {
+        "prompt": "In Tata Punch, air Conditioner Not Blowing Cold Air",
+        "response": "Check the Refrigerant Level: Low refrigerant levels can cause the AC to blow warm air. Call a professional to check and recharge the refrigerant. Check the Fan: Make sure the fan is running and that the blades are not obstructed. Check the Condenser Coils: Dirty condenser coils can reduce efficiency. Clean them with a hose or use a coil cleaning solution. Check the Air Filter: A dirty filter can restrict airflow and reduce cooling efficiency. Clean or replace the filter."
+    },
+    {
+        "prompt": "In Tata Punch, air Conditioner Running Constantly",
+        "response": "Check the Thermostat: Make sure the thermostat is set correctly and that there are no issues with the thermostat itself. Check the Air Filter: A dirty filter can restrict airflow and cause the AC to run longer. Clean or replace the filter. Check for Leaks: Check for leaks in the ductwork, which can cause the AC to work harder to cool the home."
+    },
+    {
+        "prompt": "In Tata Punch, air Conditioner Making Strange Noises",
+        "response": "Check the Fan: If you hear a rattling or grinding noise, it could be a problem with the fan motor or blades. Check the Compressor: A loud humming or clunking noise could indicate a problem with the compressor. Check for Loose Parts: If you hear a rattling or banging noise, there might be a loose part in the AC unit."
+    },
+    {
+        "prompt": "In Tata Punch, air Conditioner Freezing Up",
+        "response": "Check the Refrigerant Level: Low refrigerant levels can cause the evaporator coil to freeze. Call a professional to check and recharge the refrigerant. Check the Air Filter: A dirty filter can restrict airflow and cause the evaporator coil to freeze. Clean or replace the filter. Check for Blockages: Make sure there are no obstructions blocking the airflow to the evaporator coil."
+    },
+    {
+        "prompt": "In Tata Punch, what type of engine does this car have?",
+        "response": "This car is powered by a 1.2 Revotron Petrol NA Engine, which is a naturally aspirated petrol engine with a displacement of 1199 cc. It produces 86PS (63 kW) of power at 6000 rpm and 113 Nm of torque at 3300 rpm."
+    },
+    {
+        "prompt": "In Tata Punch, what is the difference between a naturally aspirated engine and a turbocharged engine?",
+        "response": "A naturally aspirated engine relies solely on atmospheric air to fill the cylinders for combustion, while a turbocharged engine uses a turbocharger to force more air into the cylinders, increasing power output."
+    },
+    {
+        "prompt": "In Tata Punch, what type of transmission does this car have?",
+        "response": "This car is available with either a 5-speed manual transmission or an automated manual transmission (AMT) with 5 forward gears and 1 reverse gear. The AMT combines the convenience of an automatic transmission with the efficiency of a manual transmission."
+    },
+    {
+        "prompt": "In Tata Punch, what type of steering system does this car have?",
+        "response": "This car has electric power steering, which assists the driver in steering at low speeds."
+    },
+    {
+        "prompt": "In Tata Punch, what type of brakes does this car have?",
+        "response": "This car has disc brakes at the front and drum brakes at the rear. Disc brakes provide better braking performance than drum brakes."
+    },
+    {
+        "prompt": "In Tata Punch, how does the suspension system work?",
+        "response": "This car has an independent front suspension and a semi-independent rear suspension. This type of suspension helps absorb bumps and provides a comfortable ride."
+    },
+    {
+        "prompt": "In Tata Punch, what type of tires are fitted on this car?",
+        "response": "This car comes with 195/60 R16 radial tubeless tires. These tires offer good grip and stability."
+    },
+    {
+        "prompt": "In Tata Punch, what are some common reasons why the check engine light might come on?",
+        "response": "Common reasons for the check engine light to come on include a loose or faulty gas cap, a malfunctioning oxygen sensor, a failing catalytic converter, or issues with the mass airflow sensor."
+    },
+    {
+        "prompt": "In Tata Punch, what should I do if my check engine light comes on?",
+        "response": "First, check your owner's manual for specific information about your car model. Then, try tightening your gas cap and see if the light goes off. If the light remains on, contact your TATA MOTORS Authorized Dealer/Service Center for diagnosis and repair."
+    },
+    {
+        "prompt": "In Tata Punch, is the check engine light a critical issue?",
+        "response": "While the amber check engine light is not a critical issue, it's essential to address it promptly to prevent more significant problems. Ignoring it could lead to issues with your car's emissions or performance."
+    },
+    {
+        "prompt": "In Tata Punch, what are the safety precautions to take before replacing a low beam headlight bulb?",
+        "response": "Ensure your vehicle is parked on a level surface with the engine off. Be careful when working near the engine compartment as it can be hot."
+    },
+    {
+        "prompt": "In Tata Punch, how do I locate the bulb access cover?",
+        "response": "Open the hood and locate the headlight assembly. There will be a cover providing access to the bulbs."
+    },
+    {
+        "prompt": "In Tata Punch, how do I remove the bulb access cover?",
+        "response": "Identify the direction arrow on the cover and rotate it according to the arrow to remove it."
+    },
+    {
+        "prompt": "In Tata Punch, how do I disconnect the connector from the bulb?",
+        "response": "Gently press the pin on the connector and pull it out from the bulb."
+    },
+    {
+        "prompt": "In Tata Punch, how do I release the bulb from the socket?",
+        "response": "Press and swing the retaining spring to free the bulb from the socket. Pull the bulb straight back to remove it."
+    },
+    {
+        "prompt": "In Tata Punch, how do I insert the new bulb?",
+        "response": "Carefully insert the new bulb into the socket, ensuring you don't touch the glass part of the bulb."
+    },
+    {
+        "prompt": "In Tata Punch, how do I secure the new bulb?",
+        "response": "Move the retaining spring up and push it slightly until it locks securely in place."
+    },
+    {
+        "prompt": "In Tata Punch, how do I reconnect the connector?",
+        "response": "Gently reattach the connector to the bulb."
+    },
+    {
+        "prompt": "In Tata Punch, how do I replace the bulb access cover?",
+        "response": "Rotate the bulb access cover back into place, ensuring it is securely fastened."
+    },
+    {
+        "prompt": "In Tata Punch, what type of bulbs are used in headlights?",
+        "response": "Most vehicles use replaceable halogen bulbs in their headlamps."
+    },
+    {
+        "prompt": "In Tata Punch, why should I avoid touching the glass part of the bulb?",
+        "response": "Touching the glass with bare hands can affect the bulb's lifespan."
+    },
+    {
+        "prompt": "In Tata Punch, should I replace both bulbs at the same time?",
+        "response": "It's recommended to replace both bulbs simultaneously, even if only one is burnt out, for optimal visibility."
+    },
+    {
+        "prompt": "In Tata Punch, is it necessary to turn off the engine before replacing the bulbs?",
+        "response": "Yes, always ensure the engine is off before replacing bulbs."
+    },
+    {
+        "prompt": "In Tata Punch, what should I be mindful of when working in the engine compartment?",
+        "response": "Be aware of hot components, especially if the engine was running recently."
+    },
+    {
+        "prompt": "In Tata Punch, what is the purpose of the inside rear view mirror (IRVM)?",
+        "response": "The inside rear view mirror (IRVM) is used to provide a view of the road behind the vehicle."
+    },
+    {
+        "prompt": "In Tata Punch, how do you adjust the inside rear view mirror?",
+        "response": "You can adjust the inside rear view mirror by moving it up, down, or sideways manually to obtain the best rear view."
+    },
+    {
+        "prompt": "In Tata Punch, what is the purpose of the anti-glare mode on the IRVM?",
+        "response": "The anti-glare mode reduces glare from headlights of vehicles behind you, making it easier to see at night."
+    },
+    {
+        "prompt": "In Tata Punch, what are the outer rear view mirrors (ORVM) used for?",
+        "response": "The outer rear view mirrors provide a wider view of the road to the sides of the vehicle."
+    },
+    {
+        "prompt": "In Tata Punch, how do you adjust the outer rear view mirrors?",
+        "response": "You can adjust the outer rear view mirrors manually or remotely by a knob."
+    },
+    {
+        "prompt": "In Tata Punch, how do you adjust motorized ORVMs?",
+        "response": "You can adjust motorized ORVMs using the switch located on the driver's door. The mirror selection switch allows you to select the mirror you wish to adjust, and the knob allows you to adjust the mirror to the required position."
+    },
+    {
+        "prompt": "In Tata Punch, why is it important to adjust the rear view mirrors properly?",
+        "response": "Properly adjusted rear view mirrors provide a clear and unobstructed view of the road behind and to the sides of the vehicle, which is crucial for safe driving."
+    },
+    {
+        "prompt": "In Tata Punch, what should you do when driving at night with the anti-glare mode on the IRVM?",
+        "response": "Use the anti-glare mode only when necessary, as it reduces rear view visibility."
+    },
+    {
+        "prompt": "In Tata Punch, how do I adjust the side mirrors on my vehicle?",
+        "response": "The side mirrors can be adjusted electronically using the control panel on the driver's door."
+    },
+    {
+        "prompt": "In Tata Punch, what are the features of the infotainment system?",
+        "response": "The infotainment system includes a navigation system, Bluetooth connectivity, and a premium sound system. You can access various functions through the touchscreen interface or voice commands."
+    },
+    {
+        "prompt": "In Tata Punch, how do I start the engine in my vehicle?",
+        "response": "1. Insert the key into the ignition slot or press the start button, depending on your vehicle model. 2. Ensure the brake pedal is fully depressed. 3. Turn the key to the 'Start' position or press the start button to start the engine. 4. After the engine starts, check that all dashboard lights turn off, indicating that the vehicle systems are functioning correctly."
+    },
+    {
+        "prompt": "In Tata Punch, what is the difference between 'Drive' and 'Reverse' modes in an automatic transmission?",
+        "response": "'Drive' (D) mode is used for normal driving, where the transmission automatically selects the appropriate gear. 'Reverse' (R) mode is used to move the vehicle backward; always ensure the vehicle is fully stopped before shifting into reverse."
+    },
+    {
+        "prompt": "In Tata Punch, what is the purpose of the power steering system?",
+        "response": "Power steering provides enhanced steering control and reduces the effort required to turn the steering wheel."
+    },
+    {
+        "prompt": "In Tata Punch, how often should I change the engine oil?",
+        "response": "Replace the engine oil and filter every 5,000 to 7,500 miles, or as specified in the maintenance schedule."
+    },
+    {
+        "prompt": "In Tata Punch, what is the purpose of the Anti-lock Braking System (ABS)?",
+        "response": "ABS prevents the wheels from locking up during hard braking, helping to maintain steering control. You may feel a pulsation in the brake pedal when ABS activates, which is normal and indicates that the system is working."
+    },
+    {
+        "prompt": "In Tata Punch, what should I do if my vehicle's engine won't start?",
+        "response": "1. Check the battery terminals: Ensure they are clean and securely connected. 2. Verify the fuel level: Make sure there is enough fuel in the tank. 3. If the engine still doesn't start, the starter motor or ignition system may need to be inspected by a professional."
+    },
+    {
+        "prompt": "In Tata Punch, how do I handle a flat tire?",
+        "response": "1. Find a safe location away from traffic. 2. Loosen the lug nuts on the flat tire using the lug wrench (don't remove them completely). 3. Raise the vehicle using the jack and ensure it's securely supported. 4. Remove the flat tire and replace it with the spare. 5. Tighten the lug nuts securely, lower the vehicle, and check the spare tire's pressure."
+    },
+    {
+        "prompt": "In Tata Punch, how can I reduce the load on my brakes when driving downhill?",
+        "response": "To reduce the load on your brakes when driving downhill, shift to a lower gear. This is called engine braking and helps prevent brake overheating and wear."
+    },
+    {
+        "prompt": "In Tata Punch, why should I avoid using the brake pedal as a footrest?",
+        "response": "Never use your brake pedal as a footrest. Resting your foot on the brake pedal can cause the braking system to overheat and fade, making it harder to stop."
+    },
+    {
+        "prompt": "In Tata Punch, what happens if I press the brake and accelerator pedals at the same time?",
+        "response": "Never press the brake and accelerator pedals at the same time. This can lead to loss of control and accidents."
+    },
+    {
+        "prompt": "In Tata Punch, why should I avoid shifting to lower gears on slippery surfaces?",
+        "response": "Avoid shifting to lower gears on slippery surfaces to increase engine braking. This can cause the tires to lose grip, increasing the risk of skidding and accidents."
+    },
+    {
+        "prompt": "In Tata Punch, how do vacuum-assisted brakes work?",
+        "response": "Your vacuum-assisted brake system uses engine vacuum to multiply the force you apply to the brake pedal, making it easier to stop. The vacuum booster is a component that helps you brake with less effort."
+    },
+    {
+        "prompt": "In Tata Punch, what should I do if I notice any changes in braking performance?",
+        "response": "Always be mindful of your braking system and how it performs. If you notice any changes in braking performance, have your brakes inspected by a qualified mechanic. Regular brake maintenance is essential for safe driving."
+    },
+    {
+        "prompt": "In Tata Punch, how do I check the engine oil level?",
+        "response": "To check the engine oil level, follow these steps: 1. Warm Up: Start your engine and let it run until it reaches normal operating temperature. 2. Park Level: Park your vehicle on a level surface. 3. Turn Off and Wait: Turn off the engine and wait for 5 minutes. 4. Locate Dipstick: Open the hood and locate the engine oil dipstick. It's usually yellow or orange and has a handle. 5. Wipe and Reinsert: Pull out the dipstick and wipe it clean with a rag or paper towel. Reinsert the dipstick fully back into the dipstick tube. 6. Check Level: Pull out the dipstick again. The oil level should be between the 'MIN' and 'MAX' markings on the dipstick. 7. Top Up (If Needed): If the oil level is below the 'MIN' mark, add recommended engine oil until it reaches the 'MAX' mark. Never overfill the engine with oil as it can cause damage."
+    },
+    {
+        "prompt": "In Tata Punch, why is it important to warm up the engine before checking the oil level?",
+        "response": "Warming up the engine allows the oil to circulate throughout the engine and settle back into the oil pan, ensuring an accurate reading of the oil level."
+    },
+    {
+        "prompt": "In Tata Punch, what should I do if the oil level is below the 'MIN' mark?",
+        "response": "If the oil level is below the 'MIN' mark, add recommended engine oil until it reaches the 'MAX' mark. Make sure to use the correct type and viscosity of oil for your vehicle, as specified in your owner's manual."
+    },
+    {
+        "prompt": "In Tata Punch, should I add oil above the 'MAX' mark?",
+        "response": "No, do not add oil above the 'MAX' mark. Overfilling the engine with oil can cause damage."
+    },
+    {
+        "prompt": "In Tata Punch, how do I ensure my automatic headlights work properly?",
+        "response": "Make sure the headlight switch is set to the 'Auto' position."
+    },
+    {
+        "prompt": "In Tata Punch, how do I adjust my seat for optimal driving posture?",
+        "response": "Ensure your seat is positioned comfortably and the backrest is upright."
+    },
+    {
+        "prompt": "In Tata Punch, how do I fasten the shoulder belt?",
+        "response": "Grasp the belt tongue and slowly pull it over your shoulder and across your chest. Insert the tongue into the lock buckle until you hear a 'CLICK,' confirming the belt is securely locked."
+    },
+    {
+        "prompt": "In Tata Punch, how do I fasten the lap belt?",
+        "response": "Position the lap portion of the belt across your pelvic bone, below your abdomen. Pull up slightly on the shoulder belt to remove any slack."
+    },
+    {
+        "prompt": "In Tata Punch, how do I ensure a snug seat belt fit?",
+        "response": "A snug fit is crucial. If the lap belt feels too tight, tilt the tongue and pull on the lap belt to loosen it. A snug seat belt helps prevent you from sliding under the belt during a collision."
+    },
+    {
+        "prompt": "In Tata Punch, how do I ensure the seat belt is twist-free?",
+        "response": "Ensure the seat belt runs smoothly over your body, without any twists. A twisted belt won't provide optimal protection."
+    },
+    {
+        "prompt": "In Tata Punch, how do I release the seat belt?",
+        "response": "Push the red button on the lock buckle to release the seat belt. The belt will automatically retract to its stowed position. If necessary, slide the tongue down the webbing to help the belt retract fully."
+    },
+    {
+        "prompt": "In Tata Punch, how many people can use one seat belt?",
+        "response": "Each seating position and seat belt assembly is designed for only one occupant."
+    },
+    {
+        "prompt": "In Tata Punch, how should I secure a child in the vehicle?",
+        "response": "Never place a child on your lap and secure them with a seat belt. Use age-appropriate child restraints as per manufacturer instructions."
+    },
+    {
+        "prompt": "In Tata Punch, can I damage or tamper with the seat belt?",
+        "response": "Do not damage or tamper with the seat belt webbing or hardware."
+    },
+    {
+        "prompt": "In Tata Punch, how often should I inspect the seat belt system?",
+        "response": "Inspect the seat belt system periodically for any cuts, frays, or loose parts."
+    },
+    {
+        "prompt": "In Tata Punch, what should I do if I find damage to the seat belt?",
+        "response": "If you find any damage to the seat belt webbing or hardware, immediately replace it at an authorized TATA Motors service center."
+    },
+    {
+        "prompt": "In Tata Punch, can I insert objects into the seat belt buckles?",
+        "response": "Do not insert any objects, such as coins or clips, into the seat belt buckles. Also, be careful not to spill liquids on these parts."
+    },
+    {
+        "prompt": "In Tata Punch, what should I be mindful of when wearing seat belts?",
+        "response": "Do not wear seat belts over hard, sharp, or fragile items in your clothing."
+    },
+    {
+        "prompt": "In Tata Punch, how long does it take for seat warmers to warm up?",
+        "response": "It usually takes a few minutes for seat warmers to reach their desired temperature. The specific time will depend on the model of the seat warmer and the temperature setting."
+    },
+    {
+        "prompt": "In Tata Punch, how do I know if my seat warmers are working?",
+        "response": "Most vehicles have a button or switch that controls the seat warmers. You can turn on the seat warmers and feel if they are warm. Some vehicles also have a light indicator that illuminates when the seat warmers are on."
+    },
+    {
+        "prompt": "In Tata Punch, are seat warmers safe?",
+        "response": "Seat warmers are generally safe when used correctly. However, it is important to be aware of the potential risks, such as burns, and to use caution when using seat warmers."
+    },
+    {
+        "prompt": "In Tata Punch, how do I adjust the seat backrest angle?",
+        "response": "1. Lean forward slightly and pull up the lever (1) located on the side of the seat. 2. Adjust the seat backrest until you reach a comfortable position. 3. Ensure the lever returns to its original position and the seat is securely latched."
+    },
+    {
+        "prompt": "In Tata Punch, how do I adjust the seat height?",
+        "response": "1. To raise the seat, pull and continue pumping the lever (2) in an upward direction until the desired height is reached. 2. To lower the seat, pump the lever downward until the desired height is reached."
+    },
+    {
+        "prompt": "In Tata Punch, how do I adjust the seat forward or backward?",
+        "response": "1. Lift lever (3) and slide the seat forward or to the rear. 2. Release the lever and make sure the seat is securely latched."
+    },
+    {
+        "prompt": "In Tata Punch, how do I adjust the head restraint?",
+        "response": "1. Adjust the head restraint so that it is as close to your head as possible. 2. The center of the head restraint should support the back of your head at eye level. 3. This position reduces the risk of injury to the head and neck in the event of an accident."
+    },
+    {
+        "prompt": "In Tata Punch, where is the windshield wiper control lever typically located?",
+        "response": "The windshield wiper control lever is typically located on the right side of the steering column."
+    },
+    {
+        "prompt": "In Tata Punch, how do you activate the windshield wipers?",
+        "response": "Pull the lever down to activate the wipers."
+    },
+    {
+        "prompt": "In Tata Punch, how do you adjust the speed of the windshield wipers?",
+        "response": "Most vehicles have multiple settings for wiper speed. You can adjust the speed by pushing the lever up to different detents. Common settings include: High, Low, and Intermittent."
+    },
+    {
+        "prompt": "In Tata Punch, what is the 'Intermittent' setting for windshield wipers used for?",
+        "response": "The Intermittent setting allows you to control the wiping frequency, from a slow wipe every few seconds to a rapid wipe every second. This setting is ideal for light rain or mist."
+    },
+    {
+        "prompt": "In Tata Punch, how do you activate the windshield washer fluid?",
+        "response": "To activate the windshield washer fluid, pull the lever towards you. Hold it for a few seconds to release the fluid onto the windshield."
+    },
+    {
+        "prompt": "In Tata Punch, how often should you check and refill the windshield washer fluid reservoir?",
+        "response": "Regularly check the windshield washer fluid reservoir and refill it with appropriate fluid."
+    },
+    {
+        "prompt": "In Tata Punch, should you operate the wipers on a dry windshield?",
+        "response": "Never operate the wipers on a dry windshield. This can cause damage to the wiper blades and the windshield."
+    },
+    {
+        "prompt": "In Tata Punch, should you attempt to move the wiper arms manually?",
+        "response": "Do not attempt to move the wiper arms manually. This can damage the wiper arms, the motor, and other components."
+    },
+    {
+        "prompt": "In Tata Punch, what is a detent?",
+        "response": "A detent is a mechanical notch or stop that allows a lever or knob to be held in a specific position."
+    },
+    {
+        "prompt": "In Tata Punch, what should you do if your windshield wipers are streaking, skipping, or not working at all?",
+        "response": "You should inspect the wiper blades, check the washer fluid reservoir, check the wiper motor fuse, and consult your owner's manual."
+    },
+    {
+        "prompt": "In Tata Punch, what should you do if you are unable to resolve issues with your windshield wipers?",
+        "response": "It is recommended to take your vehicle to a qualified mechanic."
+    },
+    {
+        "prompt": "In Tata Punch, how do I adjust the steering wheel in my car?",
+        "response": "To adjust your steering wheel, you'll typically find a tilt lever on the steering column. Push the lever down to unlock the steering column, then move the wheel to your desired position. Once you're happy with the position, pull the lever up to lock the steering column in place."
+    },
+    {
+        "prompt": "In Tata Punch, where is the tilt lever located on the steering column?",
+        "response": "The tilt lever is usually located on the steering column, often offset to the side. It may be a small lever or a button depending on the car model."
+    },
+    {
+        "prompt": "In Tata Punch, how do I know if the steering column is locked?",
+        "response": "You can confirm the steering column is locked by gently pushing the steering wheel. If it doesn't move, the steering column is locked."
+    },
+    {
+        "prompt": "In Tata Punch, what should I do before adjusting my steering wheel?",
+        "response": "Make sure you are comfortably positioned in your seat before you adjust the steering wheel. This will help you find the best position for your comfort and safety."
+    },
+    {
+        "prompt": "In Tata Punch, what is the purpose of adjusting the steering wheel?",
+        "response": "Adjusting the steering wheel allows you to find a comfortable and safe driving position. It can help reduce fatigue and improve your control of the vehicle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the first aid kit located in the car?",
+        "response": "The first aid kit is kept inside the glove box compartment."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what does the first aid kit contain?",
+        "response": "The kit contains items that can be used in case of minor injuries only."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, are there any specific instructions regarding the first aid kit?",
+        "response": "Note: Examine contents of the first aid kit periodically and replenish consumed or expired items."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the advance warning triangle kept in the car?",
+        "response": "An advance warning triangle is kept in the luggage compartment beside the spare wheel."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should the advance warning triangle be used in case of a vehicle breakdown or emergency?",
+        "response": "Use the advance warning triangle to warn approaching traffic in case of vehicle breakdown or emergency, where your vehicle could become a potential traffic hazard. When you press the hazard warning switch, all turn signal lamps will start to blink. Keep the warning triangle at an approximate distance of 50-150 meters behind your vehicle in the same lane of traffic. The reflecting side of the triangle should face the oncoming traffic and it should be free from any obstacles. Remove the advance warning triangle carefully from the bag and assemble it. Refer to the instructions given on the bag."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, are there any specific instructions for storing the advance warning triangle after use?",
+        "response": "Note: After using the warning triangle tie it firmly and keep it inside the bag to avoid rattling noise."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you access the spare wheel in the car?",
+        "response": "To access the spare wheel, lift the carpet up.  After lifting, hold the carpet to access the spare wheel.  Remove the Toolkit bag.  To remove the spare wheel, unscrew and remove the retaining bolt."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what steps are involved in removing and replacing the spare wheel?",
+        "response": "To access the spare wheel, lift the carpet up.  After lifting, hold the carpet to access the spare wheel.  Remove the Toolkit bag.  To remove the spare wheel, unscrew and remove the retaining bolt."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, are there any warnings or speed limitations associated with using the spare wheel?",
+        "response": "Warning: 80 km/h or 50 mph is the maximum speed you are permitted to drive with this tyre. Never drive faster than 80 km/h (50 mph). Do not accelerate quickly, brake suddenly, or drive at high speed through bends. After fitting the temporary spare wheel, the tyre pressure must be checked as soon as possible."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the steps involved in changing a flat tire on the vehicle?",
+        "response": "Changing Flat Tyre:  Loosen the nuts (as indicated) on the wheel in diagonal sequence. Do not unscrew the nuts completely before raising the vehicle using the jack.  Assemble the Jack handle and wheel spanner (as shown in fig.)  Position the jack vertically and raise it by turning the jack handle clockwise until the jack sits completely on the specified point and the base of the jack lies evenly on the ground.  The jacking points are indicated on the sill cover of the vehicle.  Continue to raise the jack slowly and smoothly until the tyre clears the ground. Do not raise the vehicle more than necessary.  Remove wheel nuts with the help of wheel spanner and take out flat tyre.  Roll the spare wheel into position and align the holes in the wheel studs.  Tighten each nut by hand until the wheel is securely seated on the hub.  Lower the jack completely then tighten the wheel nuts diagonally in opposite sequence one by one using wheel spanner.  Press fit the wheel cover back (if equipped).  Restore all the tools and jack at their respective locations.  Place the flat tyre at the spare wheel location."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should the jack be positioned and used?",
+        "response": "Changing Flat Tyre:  Loosen the nuts (as indicated) on the wheel in diagonal sequence. Do not unscrew the nuts completely before raising the vehicle using the jack.  Assemble the Jack handle and wheel spanner (as shown in fig.)  Position the jack vertically and raise it by turning the jack handle clockwise until the jack sits completely on the specified point and the base of the jack lies evenly on the ground.  The jacking points are indicated on the sill cover of the vehicle.  Continue to raise the jack slowly and smoothly until the tyre clears the ground. Do not raise the vehicle more than necessary.  Remove wheel nuts with the help of wheel spanner and take out flat tyre.  Roll the spare wheel into position and align the holes in the wheel studs.  Tighten each nut by hand until the wheel is securely seated on the hub.  Lower the jack completely then tighten the wheel nuts diagonally in opposite sequence one by one using wheel spanner.  Press fit the wheel cover back (if equipped).  Restore all the tools and jack at their respective locations.  Place the flat tyre at the spare wheel location."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precautions should be taken when using the jack?",
+        "response": "Note: The jack is designed only to raise and hold the vehicle for a short time while a wheel is being changed. It is not suited for performing maintenance work under the vehicle. Use the jack on level, hard ground. Avoid changing the wheel on uphill and downhill slopes. Chock the wheels if the deflated wheel needs to be changed on a slope/ghat area. Before raising the vehicle, secure it from rolling away by applying the parking brake. Do not use wooden blocks or similar objects as a jack underlay. Do not place your hands and feet or lie under the raised vehicle when it is supported by a jack. Do not run the engine when the vehicle is supported by the jack and never allow passengers to remain in the vehicle. Do not place wheel nuts in sand or on a dirty surface. Do not apply oil or grease on them."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precautions should be taken when jump starting your car?",
+        "response": "JUMP STARTING YOUR CAR:  Use only a battery of the same rating & capacity to jump start your vehicle. Position the booster battery close to your vehicle so that the jump leads will reach both batteries.  When using a battery of another vehicle, do not let the vehicles touch. Apply the parking brake firmly and keep the gearshift lever in neutral.  Turn off all vehicle accessories, except those necessary for safety like hazard warning lamps."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you position the booster battery when jump starting your car?",
+        "response": "JUMP STARTING YOUR CAR:  Use only a battery of the same rating & capacity to jump start your vehicle. Position the booster battery close to your vehicle so that the jump leads will reach both batteries."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you connect the jump leads when jump starting your car?",
+        "response": "JUMP STARTING YOUR CAR:  Use only a battery of the same rating & capacity to jump start your vehicle. Position the booster battery close to your vehicle so that the jump leads will reach both batteries.  When using a battery of another vehicle, do not let the vehicles touch. Apply the parking brake firmly and keep the gearshift lever in neutral.  Turn off all vehicle accessories, except those necessary for safety like hazard warning lamps.  If your vehicle is equipped with Battery sensor, then do not connect your jump start cable lead directly on the Sensor surface. Connect only on the negative cable surface as shown in the image. After the jump start event, IAC function will be restored only when the Vehicle is parked idle for 3-4 Hours."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what kind of gas does the battery generate during normal operation?",
+        "response": "During normal operation, the battery generates gas which is explosive in nature."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what can cause the battery to explode?",
+        "response": "A spark or open flame can cause the battery to explode causing very serious injuries."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precautions should be taken to prevent battery explosion?",
+        "response": "Keep all sparks, open flames and smoking materials away from the battery."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what does the battery contain that is dangerous?",
+        "response": "The battery contains sulphuric acid (electrolyte) which is poisonous and highly corrosive in nature."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the risks of getting battery electrolyte in your eyes or on your skin?",
+        "response": "Getting electrolyte in your eyes or on the skin can cause severe burns."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what protective measures should be taken when handling the battery?",
+        "response": "Wear protective clothing and a face shield or have a skilled technician to do the battery maintenance."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, is water dripping below the car normal?",
+        "response": "Yes, water dripping below the car is normal. This is due to the usage of the air conditioning system."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when should tyre pressure be measured?",
+        "response": "Tyre pressure should always be measured in cold conditions."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how often should you check tyre pressure and condition?",
+        "response": "Do a check of tyre pressure and condition after every 15 days, including the spare tyre."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, should you apply any external coating solution on vehicle glazing or glasses?",
+        "response": "We strongly recommended to avoid applying any external coating solution on vehicle glazing or glasses."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, is it advisable to apply external coating solution on the Front & Rear Windscreen Glass?",
+        "response": "We strongly recommended to avoid applying any external coating solution on the Front & Rear Windscreen Glass."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should you avoid applying external coating solution on the vehicle's Front & Rear Windscreen Glass?",
+        "response": "This may affect the Wiper performance & lead to poor visibility while using Wipers in wet condition/Rainy season."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, i noticed water dripping from the underside of my vehicle. Is this normal?",
+        "response": "Yes, condensate may drip from the underside of the vehicle when it is in cooling mode. Traces of water on the ground are normal and are not a sign of leakage or malfunction."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, i see traces of water on the ground under my car. Should I be concerned about a leak or malfunction?",
+        "response": "No, traces of water on the ground are normal and are not a sign of leakage or malfunction. This happens when the vehicle is in cooling mode."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, my vehicle is not cooling down quickly. What can I do to speed up the cooling process?",
+        "response": "Ventilate the vehicle for a brief period during warm weather. This will speed up the cooling process and the desired vehicle interior temperature will be reached quickly."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can I improve the cooling efficiency of my vehicle's air conditioning system during warm weather?",
+        "response": "Ventilate the vehicle for a brief period during warm weather. This will speed up the cooling process and the desired vehicle interior temperature will be reached quickly."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, can I cover the air vents or air intake grills in the vehicle interior?",
+        "response": "Never cover the air vents or air intake grills in the vehicle interior."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why shouldn't I cover the air vents or air intake grills in my vehicle?",
+        "response": "Covering the air vents or air intake grills in the vehicle interior can hinder the air conditioning system's performance."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, my AC is not giving the best performance after not being used for a long period. What should I do?",
+        "response": "If the AC is not used for a long period, such as during winter, it may not give the best performance when you start using it again. Operate the AC at least once a month to maintain optimum performance."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how often should I operate my AC to maintain its performance if I don't use it frequently?",
+        "response": "Operate the AC at least once a month to maintain optimum performance."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should I do to improve AC performance when starting the vehicle after a long duration?",
+        "response": "Follow the procedure for better AC performance: Start the vehicle and allow the engine to idle for 2-3 minutes with the AC off."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the procedure for starting the vehicle after a long duration to ensure better AC performance?",
+        "response": "Start the vehicle and allow the engine to idle for 2-3 minutes with the AC off. Then, switch the AC on and run it for another 2-3 minutes while the engine idles."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how long should I let the engine idle before turning on the AC after the vehicle has not been used for a long time?",
+        "response": "Allow the engine to idle for 2-3 minutes with the AC off before turning on the AC."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should I do after letting the engine idle to ensure the AC performs well after not being used for a long time?",
+        "response": "Switch the AC on and run it for another 2-3 minutes while the engine idles. This circulates the refrigerant and oil to lubricate the internal parts of the air-conditioning system."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should I run the AC for a few minutes after letting the engine idle when starting the vehicle after a long duration?",
+        "response": "Running the AC for a few minutes after letting the engine idle circulates the refrigerant and oil to lubricate the internal parts of the air-conditioning system."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, my front doors are not locking from the outside. How do I fix this?",
+        "response": "If the front doors are not locking from the outside, ensure the key is properly inserted and turned. If the lock mechanism is jammed or damaged, consult a professional mechanic for repair."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, i have an issue with the door lock lever inside the vehicle. How do I fix this?",
+        "response": "If the door lock lever inside the vehicle is not working, it could be due to a mechanical issue. Try lubricating the lever with a suitable lubricant. If the problem continues, have a professional mechanic inspect and repair the lock."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, my central locking system is malfunctioning and won't lock all the doors. What should I do?",
+        "response": "If the central locking system is malfunctioning, check if the key is correctly inserted and turned in the driver's door. Check the fuse for the central locking system and inspect the wiring and connections. If the issue persists, the central locking actuator or control unit may need professional repair."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I adjust the sun visors to prevent sun glare?",
+        "response": "To adjust the sun visors, lower them to protect your eyes from bright sunlight. You can also move the sun visors sideways towards the door for additional coverage."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where can I find the vanity mirror in my vehicle?",
+        "response": "The vanity mirror is provided on the co-driver's sun visor."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I adjust the outer rear view mirror?",
+        "response": "The outer rear view mirror can be adjusted by hand to the desired position. In some versions, it can be adjusted using a lever inside the door."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I fold the outer rear view mirror for narrow passages?",
+        "response": "To fold the outer rear view mirror backwards for convenience when driving through narrow passages, simply push the mirror backwards by hand."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the inner rear view mirror located and how do I use its anti-glare feature?",
+        "response": "The inner rear view mirror is located inside the cab between the sun visors. In some versions, an additional adjustable anti-glare rear view mirror is provided. It has two positions: normal and anti-glare. Use the anti-glare position only if necessary, as it reduces rear view clarity considerably."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, is there a rear view mirror on the co-driver's door?",
+        "response": "In some versions of the vehicle, an outer rear view mirror is also provided on the co-driver's door."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I adjust the driver's seat for a comfortable driving position?",
+        "response": "To adjust the driver's seat, lift the handle to slide the seat forward or backward. Once in the desired position, push down the handle to lock the seat. To adjust the backrest, turn the lever and release it to lock the backrest in the desired position. Do not adjust the seat while driving."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what features are available for the driver's and co-driver's seats in terms of comfort?",
+        "response": "The driver's and co-driver's seats are adjustable in forward and backward directions. In some versions, both seats also include lumbar support for maximum driving comfort."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I fold the middle seat to create more luggage space?",
+        "response": "To fold the middle seat for more luggage space, release the latch on the backrest of the 60:40 split seat and fold the seat. You can then somersault the folded middle seat forward. To fix the seat back upright, simply push it back into position until it locks automatically."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I fold the rear seats to carry bulkier baggage?",
+        "response": "To fold the rear seats for carrying bulkier baggage, lift the seat squab and hold it against the backrest. Engage the strap with the hook on the seat squab and then fold the seat stand. To open the seats, follow the reverse order, ensuring the stand is fully opened and vertical to the floor."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of seat belts are provided for the driver, co-driver, and middle seat passengers?",
+        "response": "The vehicle is fitted with three-point seat belts for the driver, co-driver, and passengers on the middle seat for extra safety."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I tighten the seat belt?",
+        "response": "To tighten the seat belt, pull the free end of the webbing through the adjuster until the required adjustment is achieved."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should I do if the seat belt warning alarm and visual indication are activated?",
+        "response": "If the seat belt warning alarm and visual indication are activated, it means the seat belt is not fastened. Insert the belt tongue into the buckle until you hear a positive click to ensure it is correctly fastened."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I fasten the seat belt correctly?",
+        "response": "To fasten the seat belt correctly, insert the belt tongue into the buckle until you hear a positive locking 'click,' which indicates correct and safe assembly."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I release the seat belt?",
+        "response": "To release the seat belt, press the release button. The tongue will be ejected clear of the locking mechanism within the buckle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I fasten the lap belt for the middle passenger of the front bench seat?",
+        "response": "To fasten the lap belt for the middle passenger of the front bench seat, adjust the length of the belt to suit convenience, then insert the belt tongue into the buckle until you hear a positive click, indicating correct assembly."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I release the lap belt for the middle passenger?",
+        "response": "To release the lap belt for the middle passenger, press the release button. The tongue will be ejected from the buckle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precautions should I take when using the lap belt?",
+        "response": "When using the lap belt, ensure it is designed for use by only one person and not intended for children under 10 years. Adjust and use the belt according to the instructions, avoiding excessive slackness and twisting of the straps. Prevent the webbing from chafing against sharp edges and do not alter or add to the belt. If the belt is cut, frayed, damaged, or stressed through impact, it should be replaced."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should I maintain and clean the lap belt?",
+        "response": "To maintain and clean the lap belt, occasionally wipe it with warm soapy water. Do not use bleach or dye under any circumstances. Periodic inspection of the installation will ensure the safe and reliable service of the seat belt."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should I do if the lap belt is damaged or stressed through impact?",
+        "response": "If the lap belt is cut, frayed, damaged, or stressed through impact, it should be replaced. Consult an authorized service outlet if in doubt."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I adjust the headrestraint for the best protection?",
+        "response": "To adjust the headrestraint for the best protection, align the top of the headrestraint with the top of your head. Use the release button to adjust the headrestraint to the desired position."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the purpose of the adjustable headrestraint in the vehicle?",
+        "response": "The adjustable headrestraint in the vehicle is designed to help protect you from whiplash and other injuries. Adjusting it properly ensures maximum safety and comfort."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, the immobiliser warning indicator lamp is blinking. What does this mean?",
+        "response": "If the immobiliser warning indicator lamp is blinking, it means the car is in an immobilised condition because the key is not inserted."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is the immobiliser warning indicator lamp on when I try to start my car?",
+        "response": "If the immobiliser warning indicator lamp is on, there is a problem with the key or the immobiliser system. You should take your car to a TATA authorised service centre for inspection and repair."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, my turn signal lamps are not working. What could be the issue?",
+        "response": "If the turn signal lamps are not working, ensure that the ignition supply is 'ON' and check the turn indicator switch on the combi switch. If the problem persists, inspect the fuse and wiring, or consult a professional mechanic."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I know if my high beam headlights are on?",
+        "response": "You will know your high beam headlights are on when the high beam indicator symbol lights up on the instrument cluster."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, my low oil pressure indicator remains on while the engine is running. What should I do?",
+        "response": "If the low oil pressure indicator remains on while the engine is running, it indicates a fault in the electrical circuit or lubrication system. Check the oil level and consult an authorised service outlet immediately for inspection and repair."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is my battery indicator light on even after starting the engine?",
+        "response": "If the battery indicator light remains on after starting the engine, it means the battery is not getting charged. Turn off all unnecessary electrical equipment and take your car to an authorised service outlet for further diagnosis and repair."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, the parking brake indicator is on even though I have released the parking brake. What does this mean?",
+        "response": "If the parking brake indicator remains on after releasing the parking brake, it could indicate low brake fluid level. Check the brake fluid level and consult an authorised service outlet if the problem persists."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what does it mean if the water in fuel indicator stays on?",
+        "response": "If the water in fuel indicator stays on, it means there is excess water accumulation in the sedimenter. Drain the water from the sedimenter immediately to prevent serious damage to the fuel injection system."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, my seat belt indicator is flashing and then stays on with a buzzer. What should I do?",
+        "response": "If the seat belt indicator is flashing and then stays on accompanied by a buzzer, it means the seat belt is not fastened. Fasten your seat belt to ensure safety and to turn off the indicator and buzzer."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should I do if the glow plug indicator lights up when I turn the ignition on?",
+        "response": "Wait until the glow plug indicator goes off before cranking the engine. The duration of the light being on varies with engine temperature and is longer when the engine is cold."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what does it mean if the service indicator lamp remains on after starting the engine?",
+        "response": "If the service indicator lamp remains on after the engine is running, it indicates a problem with the engine management system or engine components. This can cause a deterioration in engine performance. It is recommended to take your car to a TATA authorized service center for inspection and repair."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the function of the On Board Diagnostic (OBD) system in my vehicle?",
+        "response": "The OBD system continuously diagnoses components related to vehicle emissions. It turns on the MIL to alert the driver when a fault increases emission levels. The OBD system also has a diagnostic connector for reading fault codes stored in the Electronic Control Unit, which can be accessed using appropriate diagnostic tools."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should I do if the MIL on the instrument cluster turns on?",
+        "response": "If the MIL turns on, contact the nearest TATA Motors authorized service center. They will perform necessary checks and repairs, including bench tests and potentially road tests. The MIL may also be checked by traffic police using specific devices."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the difference between the main odometer and the trip meter in my vehicle?",
+        "response": "The main odometer records the total distance the vehicle has been driven and is non-resettable, counting up to 999,999 km. The trip meter, which includes Trip meter A and Trip meter B, can be reset and used to measure the distance traveled on each trip or between fuel fillings, each counting up to 1,999.9 km."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do I reset the trip meter on my vehicle's LCD display?",
+        "response": "To reset the trip meter, use the 'SET' knob on the LCD display. Press the knob for a few seconds to reset the selected trip meter (A or B)."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can I adjust the intensity level of the instrument panel illumination in my vehicle?",
+        "response": "The intensity level of the instrument panel illumination can be adjusted using the 'MODE' and 'SET' knobs on the LCD display. Use the 'MODE' knob to select the intensity level function and the 'SET' knob to vary the intensity among preset levels, ranging from minimum to maximum. The display will revert to Trip meter A after a few seconds if left in this mode."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, does the odometer and trip meter display remain on when the ignition key is removed?",
+        "response": "Yes, the main odometer and trip meter 'A' indication will remain on display even if the ignition key is removed."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what does it mean if the temperature gauge needle is in the red zone at 'H'?",
+        "response": "If the temperature gauge needle is in the red zone at 'H', it indicates that the engine is overheating. This may be due to insufficient coolant in the radiator or another defect. Avoid driving and take the car to the nearest authorized service outlet for necessary attention."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should I avoid doing with the radiator pressure cap when the engine is hot?",
+        "response": "Never remove the radiator pressure cap from the radiator when the engine is hot. Doing so can cause serious injury from escaping steam or hot coolant."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what does the speedometer indicate in the vehicle?",
+        "response": "The speedometer indicates the vehicle's speed in kilometers per hour (km/h)."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how does the RPM meter help in achieving optimum fuel economy?",
+        "response": "The RPM meter indicates the engine speed in revolutions per minute (rpm). To achieve optimum fuel economy, change gears at appropriate engine rpm and vehicle speed. Avoid letting the engine run into the red zone on the dial, which indicates the upper limit of permissible engine rpm."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should I do when the fuel gauge needle approaches the red band?",
+        "response": "When the fuel gauge needle approaches the red band, it indicates that the fuel level in the tank is low. Refill the fuel tank at the earliest opportunity to avoid running out of fuel."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the functions of the steering lock cum ignition switch in the vehicle?",
+        "response": "The steering lock cum ignition switch serves to lock the steering while parking for theft prevention, start and stop the engine, switch 'ON' and 'OFF' the electrical system (except the horn, parking lamps, engine inspection lamp, and hazard warning indicators), and switch on and off accessories only."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you ensure the steering is locked after parking the vehicle?",
+        "response": "To ensure the steering is locked after parking, withdraw the key from the ignition switch, then turn the steering wheel clockwise and anticlockwise to confirm it is locked."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do if you have difficulty unlocking the steering?",
+        "response": "If there is difficulty in unlocking the steering, insert the key into the ignition switch and turn it clockwise while slightly turning the steering wheel clockwise or anticlockwise."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what happens when the ignition key is turned to the 'ACC' position?",
+        "response": "When the ignition key is turned to the 'ACC' position, the power supply to the accessories is switched 'ON'."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what becomes operative when the ignition key is in the 'ON' position?",
+        "response": "When the ignition key is in the 'ON' position, all remaining electrical systems become operative, and indicators like the battery charging indicator and low oil pressure light come 'ON'. The glow plug controller also switches 'ON' the glow plugs and the glow indicator light."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what does the glow indicator light indicate, and what should you do when it goes off?",
+        "response": "The glow indicator light indicates that the glow plugs are warming up. When the light goes off, it indicates that the engine can be started. The glow plugs remain 'ON' for a few seconds and switch 'OFF' automatically."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what happens when the ignition key is turned to the 'START' position?",
+        "response": "When the ignition key is turned to the 'START' position, the starter motor operates to start the engine. Once the engine starts, release the ignition key so it can return to the 'ON' position, disengaging the starter motor and switching off the glow plugs."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you stop the engine using the ignition key?",
+        "response": "To stop the engine, turn the ignition key from the 'ON' position to the 'ACC' or 'LOCK' position."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the music system with a USB connector and Bluetooth located in the vehicle?",
+        "response": "The music system with a USB connector and Bluetooth is fitted in the center console of the vehicle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how many speakers are provided in the vehicle, and where are they located?",
+        "response": "The vehicle has four speakers: two are provided in the dashboard and two in the rear."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the antenna located on the vehicle?",
+        "response": "The antenna is located on the right-hand side of the front windshield glass on the A-pillar."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the microphone for the music system located in the vehicle?",
+        "response": "The microphone is located on the roof between the sun visors and above the inner rear-view mirror."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you operate the engine compartment lamp?",
+        "response": "To operate the engine compartment lamp, pull the switch provided for it."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what components are included in the tail lamp assembly?",
+        "response": "The tail lamp assembly includes the rear direction indicator, parking/rear stop lamp, reverse light, reflex reflector, and fog lamp."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how is the rear registration plate illuminated in the vehicle?",
+        "response": "The rear registration plate is illuminated by two concealed lamps."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the high mounted stop lamp located and when does it glow?",
+        "response": "The high mounted stop lamp is incorporated on the tailgate from the inside and glows whenever the service brake is applied."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where are the interior lamps located in the vehicle, and how are they operated?",
+        "response": "One interior lamp is located near the inside rear view mirror (IRVM), and the other is above the passenger compartment. They are operated using individual 'ON/OFF' switches."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the purpose of the motorised headlamp leveling arrangement and where is its control knob located?",
+        "response": "The motorised headlamp leveling arrangement adjusts the headlamp focus pattern based on the vehicle's loading condition. The control knob for this arrangement is located on the RH side of the dashboard."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should the headlamp leveling switch be set based on the vehicle's loading condition?",
+        "response": "Position 0 for unladen + One person in Driver seat / Driver + Co-Driver / Driver + Co driver + all seats farthest to rear occupied. Position 1 for all seats occupied / Laden (All seats occupied and luggage in boot space). Position 2 for driver + Evenly distributed load in the boot to obtain permissible load on corresponding axle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you operate the rear windshield demister, and what should you be cautious about?",
+        "response": "To operate the rear windshield demister, push the operating switch on the fascia. The demister will turn off automatically after 15 minutes. Be cautious to clean the windshield glass carefully from inside to avoid damaging the demister heater element."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when and how can you use the rear fog lamps, and what should you know about their operation?",
+        "response": "The rear fog lamps can be switched on with the parking lamp and front fog lamps or even when only the headlights are on. They will remain on until the parking lamp is switched off. Be aware that they are designed to improve visibility and provide a warning in foggy weather or heavy rain."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you use the rear windshield wash and wipe function, and what happens when you release the switch?",
+        "response": "Push and hold the switch knob to operate the rear windshield wash function for the desired duration. The function indicator lights up when the wash function is on. Along with the wash fluid spraying, the wiper operates with a delay to wipe the glass surface. Releasing the switch will stop the wash and wipe function."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how is the rear windshield wiper operated, and how do you know if it is on?",
+        "response": "To operate the rear windshield wiper, push the switch to turn it on and push again to turn it off. The function indicator lights up when the wiper function is on."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when should you use the front fog lamps, and how are they operated?",
+        "response": "The front fog lamps are provided to improve visibility in foggy weather or heavy rain. They are operated using the latched switch on the dashboard."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can you operate the front fog lamps, and when should they be used?",
+        "response": "The front fog lamps can be switched on with the parking lamps and will remain on until the parking lamps are turned off. They should be used only during foggy conditions or heavy rains if necessary."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when should you use the hazard warning function, and how is it operated?",
+        "response": "The hazard warning function should be used in case of a breakdown, especially at night, or when the vehicle is parked at the side of the road in adverse conditions. It can be operated without the ignition being on by pressing the hazard warning switch. This will cause all outside turn signal lights and indicators on the cluster to flash simultaneously to alert other road users. Press the switch again to turn off the hazard function."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you ensure regarding the hazard warning indicators, and what should you do if there is a problem?",
+        "response": "Ensure that all turn signal indicators are working properly when using the hazard warning function. If there is a problem, get it rectified to ensure effective hazard signaling."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the power socket located in the vehicle, and what is its maximum load capacity?",
+        "response": "The power socket is located on the central console below the music system and can be used for connecting loads up to 10A maximum."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you use the power socket, and what precaution should you take when it is not in use?",
+        "response": "To use the power socket, remove the cap first. Always keep the socket covered with the cap when not in use to prevent damage or contamination."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the mobile holder located in the vehicle, and what is its purpose?",
+        "response": "The mobile holder is located on the central console below the music system, beside the power socket. It is designed to hold your mobile device for charging while driving."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where are the grab handles located in the vehicle, and what is their purpose?",
+        "response": "Grab handles are provided in the vehicle at various locations, including the co-driver side, middle passenger area, and third-row passenger compartment, to assist passengers in positioning themselves comfortably during the journey."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the glove box located, and how can it be secured?",
+        "response": "The glove box is located on the dashboard in front of the co-driver's seat and can be locked with the ignition key."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where are the cup holders located, and what caution should be observed regarding their use?",
+        "response": "Cup holders are provided on the inner face of the glove box flap. They should not be used while the vehicle is in motion to avoid spills and distractions."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the purpose of the 5th gear on the gear shift lever, and where is it marked?",
+        "response": "The 5th gear, marked on the gear shift lever knob as an overdrive, is provided to achieve better fuel economy while driving on highways."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the parking brake lever located, and how is it operated?",
+        "response": "The parking brake lever is mounted on the floor console between the driver's seat and the co-driver's seat. To apply the parking brake, pull the lever up. To release it, pull the lever up slightly, press the release button, and push the lever down."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you ensure before driving the vehicle with respect to the parking brake, and how is the parking brake status indicated?",
+        "response": "Ensure the parking brake is fully released before driving the vehicle. The parking brake status is indicated on the instrument cluster."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you open the bonnet, and what should you use to keep it open?",
+        "response": "To open the bonnet, pull the lever to release the bonnet lock, then lift the additional lock lever located at the centre of the bonnet. Use the bonnet stay rod to keep the bonnet open."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you close the bonnet, and what precaution should you take before driving?",
+        "response": "To close the bonnet, disengage the stay rod, clamp it properly, and press down the bonnet until it is fully shut. Ensure the bonnet is fully locked before driving."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do if the cable attached to the bonnet opening lever fails?",
+        "response": "If the cable fails, open the bonnet by inserting a screwdriver through a slot provided behind the grill at the top centre position. Press the lock plate to the left while pushing upward the additional lock lever and lifting the bonnet."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where is the fuel filling cap located, and how do you open it?",
+        "response": "The fuel filling cap is located at the rear on the left-hand side of the vehicle. Open the fuel filler lid by using the cable-operated lever located on the right of the driver's seat. Push the lid back to its original position to lock it."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, is the fuel filling cap feature available in all versions of the vehicle?",
+        "response": "No, this feature is available only in some versions of the vehicle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precaution should you take when removing the fuel filler cap, and how should you turn it?",
+        "response": "Remove the fuel filler cap slowly as the fuel inside may be under pressure and could spray out suddenly, causing injury. Turn the cap anti-clockwise slowly to allow any residual pressure to escape."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do if the fuel lid is equipped with a mechanical remote opener?",
+        "response": "If the vehicle has a mechanical remote fuel lid opener, use the remote opener to access the fuel lid, which is located on the left rear side of the vehicle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the initial step to fit the spare wheel onto the vehicle?",
+        "response": "Place the spare wheel on the ground below its location with the outer side of the wheel rim facing upwards."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you align the spare wheel during the fitment process?",
+        "response": "Align one of the wheel mounting screw holes with the locating pin on the frame while raising the spare wheel."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you raise the spare wheel to its mounting position?",
+        "response": "Use the wheel spanner to rotate the wheel winch screw in an anticlockwise direction until the spare wheel is raised completely."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where can the vehicle jack and tools be found in the vehicle?",
+        "response": "The vehicle tool bag, jack, and handle are kept below the driver's seat."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how is the vehicle jack mounted?",
+        "response": "The jack is mounted on the floor over studs by wing nuts screwed on them."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the purpose of the Diesel Oxidation Catalytic Converter fitted in the vehicle?",
+        "response": "The purpose is to reduce exhaust pollution by converting pollutants through a coating of precious metals."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of diesel fuel should be used to ensure the effective functioning of the Catalytic Converter?",
+        "response": "Diesel fuel with sulphur content less than 0.25% should be used."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should you avoid parking the vehicle over inflammable materials?",
+        "response": "Because the exhaust system is hot enough to initiate a fire."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what components make up the Exhaust Gas Recirculation (EGR) system in the 497SPTC engine?",
+        "response": "The EGR system comprises the EGR valve, EGR Tube, Vacuum hoses, Electroneumatic switch, Potentiometer on FIP throttle lever, EGR control unit, and associated electrical circuitry."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how does the EGR system help in reducing harmful pollutants?",
+        "response": "By mixing a controlled amount of exhaust gas with the air intake of the engine."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the purpose of a turbocharger in an engine?",
+        "response": "The turbocharger uses thermal energy from engine exhaust gases to run a turbine, which drives a compressor to force air under pressure into the inlet manifold."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how is the rotor assembly of the turbocharger lubricated?",
+        "response": "It is lubricated with finely filtered and cooled oil from the engine's lubrication system."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the purpose of the heat shield arrangement in the turbocharger system?",
+        "response": "The heat shield arrangement is provided to avoid heating of the bearings by separating the gas chamber of the turbine from the bearing housing."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what maintenance tasks should be performed on the turbocharger at every 10,000 km?",
+        "response": "Tighten the turbocharger mounting, turbocharger hose connections, and its mountings."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how often should intercooler fins be checked and cleaned, and how should they be cleaned?",
+        "response": "Intercooler fins should be checked for dust accumulations and cleaned with compressed air every 20,000 km (if fitted)."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it advisable to run the engine at idle speed for about one minute after starting and before stopping the engine?",
+        "response": "This practice ensures adequate lubricating oil supply to the turbocharger."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the purpose of power steering in a vehicle?",
+        "response": "Power steering is designed to provide lighter steering effort and easier maneuverability."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what components make up the power steering system?",
+        "response": "The power steering system consists of the steering gear box, hydraulic pump, hydraulic reservoir, and piping."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do if there is a failure in the hydraulic power steering system?",
+        "response": "If there is a failure, the steering can still be operated mechanically with increased effort to bring the vehicle to a repair station."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the initial step in filling and bleeding the power steering system?",
+        "response": "The initial step is to fill the reservoir nearly full, crank the engine for 10 seconds without allowing it to start, check and refill the reservoir as needed, and repeat this process at least three times."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you check for leakage in the power steering system?",
+        "response": "After filling the reservoir and cranking the engine, check for any leakage in the system and take corrective action if leakage is noticed."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do after steering the vehicle from full left to full right turns?",
+        "response": "After steering the vehicle from full left to full right turns, check the fluid level and add fluid if necessary to maintain the level up to the filter top."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what does the presence of bubbles or foaming in the power steering fluid indicate?",
+        "response": "Bubbles or foaming in the fluid indicate that air is getting sucked into the system. The suction line and fittings should be checked and corrected if necessary."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done once the power steering system is bled properly?",
+        "response": "Once the system is bled properly and free from foaming, ensure that there is no significant change in fluid level when the engine is started and stopped repeatedly. Top up or remove excess fluid to ensure the final level is at the 'H' mark on the dipstick."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precaution should be taken to avoid damage during the power steering fluid filling and bleeding process?",
+        "response": "Do not allow the fluid level to drop significantly or run out of the reservoir, as this may induce air into the system. Also, do not start the engine without fluid in the power steering system, as this will result in serious damage to the pump."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of fluid should be used in the power steering system?",
+        "response": "Always use the recommended brand of fluid from closed containers. Dirty fluid poured into the system can result in damage to the pump or gear."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you look for when checking the condition of the power steering pump belt?",
+        "response": "Examine the edge of the belt for cracks or fraying."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you check the tension of the power steering pump belt?",
+        "response": "Check the tension of the belt by pushing on it with your thumb. The belts should have a deflection of 8 to 10 mm."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do if the power steering pump belt tension is not proper?",
+        "response": "If the belt tension is not proper, get it attended to at the nearest authorized service outlet."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can you adjust the air temperature inside the car?",
+        "response": "You can adjust the air temperature by operating the temperature control knob (A). Rotate the knob towards the red segment to increase temperature and towards the blue segment to decrease it."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can you change the blower speed of the ventilation system?",
+        "response": "You can regulate the blower speed by operating the blower speed regulation knob (B). The speeds include LOW, MEDIUM, HIGH, and VERY HIGH."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can you change the direction of the air flow?",
+        "response": "Turn the air direction control knob (C) to set the air flow towards the face, face and feet, feet, feet and windshield, or to demist/defrost the windshield."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you turn on the air conditioning (A.C.)?",
+        "response": "Press (in case of HVAC) or rotate (in case of only A.C.) the A.C. ON/OFF switch (D) on the A.C. control panel, provided the blower is ON and the engine is running. The indicator lamp will show that the A.C. is ON."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you switch between air circulation modes in the HVAC version?",
+        "response": "Press switch 'E' to put the air circulation mode in recirculation. Release switch 'E' to put the vehicle in Fresh mode. In the A.C. version, air circulation mode can be selected by pressing knob 'E'."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when should you use the recirculation mode of the air circulation system?",
+        "response": "Use the recirculation mode when driving in dusty conditions, to avoid traffic pollution, or to get quick cooling/heating as needed. Switch to fresh mode if discomfort is felt."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what happens when the A.C. is switched ON and the engine is running?",
+        "response": "The engine idling RPM increases marginally to adjust to the A.C. compressor load. When the desired temperature is achieved, the A.C. trips OFF automatically."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what happens if the engine overheats with the A.C. ON?",
+        "response": "The A.C. compressor is automatically switched OFF when the engine overheats. The A.C. will turn back ON when the engine cools down."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the procedure for achieving quick cooling if your car has been left in the sun?",
+        "response": "Open the windows briefly, operate the air conditioner with the air circulation switch in Fresh mode, set the fan to a higher speed, and direct the air towards the face. Open all vents completely."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do once the temperature inside the vehicle has come down sufficiently after using the air conditioner?",
+        "response": "Once the temperature inside has come down sufficiently, close the windows and change the air circulation mode to Fresh or Recirculation as appropriate."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what settings should be adjusted to clear mist from the windshield during rainy season or high humidity?",
+        "response": "To clear mist, set the A.C. to ON, adjust Knob 'B' to the desired speed position, set Knob 'C' towards the windshield, and adjust Knob 'A' (for vehicles with HVAC) to a suitable temperature. Set the air circulation to the appropriate position."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do after the mist is cleared from the windshield?",
+        "response": "Once the mist is cleared, switch Knob 'C' to Face mode. Be aware that if cold air continues to flow over the windshield in high humidity areas, it might cause sudden fogging on the outside surface of the windshield."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you clear frost from the outside of the windshield in low temperature areas?",
+        "response": "To clear frost, start the engine and set Knob 'A' to maximum hot position, accelerate to warm up, set Knob 'B' to Very High, set Knob 'C' towards the windshield, and use Fresh air mode condition (Switch 'E'). Once the windshield is clear, adjust the fan speed to the desired level."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the settings for normal heating in vehicles with HVAC?",
+        "response": "For normal heating, set Knob 'A' to a suitable temperature position, adjust Knob 'B' to the desired blower speed, set Knob 'C' towards face and feet, turn the A.C. OFF, and set the air circulation to Fresh mode."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what feature is provided in deluxe versions to assist with demisting the tailgate glass?",
+        "response": "Deluxe versions are equipped with an electric heater coil for demisting the tailgate glass."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can the blower of the roof-mounted A.C. be operated, and what is required for it to function?",
+        "response": "The roof A.C. blower switch has 4 positions: 'HIGH', 'MED', 'LOW', and 'OFF'. The roof A.C. can be switched 'ON' provided the front A.C. is also 'ON'. However, the blower of the roof A.C. unit can be operated independently."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can you adjust the airflow direction of the roof A.C.?",
+        "response": "The airflow direction of the roof A.C. can be adjusted by adjusting the air vents."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do if the fuel level is low before starting a long journey?",
+        "response": "Top up the fuel tank with the correct diesel fuel, secure the cap, and lock the flap."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when should you check the engine oil level, and what should you do if the level is low?",
+        "response": "Check the engine oil level before starting the engine or at least 20 minutes after stopping the engine. If the oil level is less than midway between the upper and lower marks on the dipstick, top up with genuine company branded oils. Ensure the oil level does not exceed the 'MAX' mark."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you check the coolant level, and what should you do if it is low?",
+        "response": "With the engine cool, check the coolant level in the auxiliary tank. The level should be between the 'FULL' and 'MIN' marks. Top up with the recommended coolant up to the 'FULL' mark, ensuring it does not exceed this mark. If the coolant level drops shortly after replenishing, there may be a leak that needs to be rectified. If no leak can be found, have the system inspected at an authorized service center. Use genuine company branded coolant."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of radiator cap should be used if replacement is necessary?",
+        "response": "Always use a genuine radiator cap of 1.0 kg/cm² (14 psi) if replacement is necessary."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should the battery electrolyte level be maintained, and what should you use to top it up?",
+        "response": "The battery electrolyte level should be 10-12 mm above the top of the battery plates. Top up with distilled water if required, not acid."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do to protect the battery terminals?",
+        "response": "Keep battery terminals clean and tight. Apply petroleum jelly or Vaseline on the terminals to protect against corrosion and secure the covers provided over the terminals."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be checked for proper functioning before starting a journey?",
+        "response": "Check all lights, horn, gauges, switches, and wipers for proper functioning."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you check regarding the fan belt?",
+        "response": "Check the condition and tension of the fan belt and adjust the tension if necessary."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, where should you check for leakages and what should you do if you find any?",
+        "response": "Check for leakages of coolant, fuel, and oil at all joints of hoses and pipes. If leakage is noticed, rectify the leakages and top up the radiator with the recommended coolant if necessary."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should the brake fluid level be maintained and what type of fluid should be used?",
+        "response": "Check the level of brake fluid in the plastic container and top up if necessary. Do not overfill. Use only genuine company branded brake fluid."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should the clutch fluid level be managed and what precautions should be taken?",
+        "response": "Check the level of clutch fluid in the plastic container and top up if necessary. Do not overfill, as this could result in spillage during clutch operation. Use only genuine company branded clutch fluid."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you maintain the water level in the windshield washer reservoir, and what should you use for topping up?",
+        "response": "Check the level of water in the windshield washer reservoir and top up with clean water if required. Use a good quality cleaning solvent available in the market, following the ratio specified by its manufacturer."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you check regarding the power steering hydraulic tank?",
+        "response": "Check the oil level in the power steering hydraulic tank, where applicable."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when should you check and correct tyre inflation pressure?",
+        "response": "Check and correct the tyre inflation pressure in cold conditions."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it important to fully depress the clutch pedal before shifting gears?",
+        "response": "Fully depressing the clutch pedal before shifting gears ensures longer synchro cone life and prevents gear grinding."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can you start the vehicle smoothly without jerks?",
+        "response": "To start the vehicle smoothly without jerks, synchronize the release of the clutch pedal with the pressing of the accelerator pedal."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, at what speeds should you change gears for optimal performance?",
+        "response": "1st to 2nd gear- 20 km/hr, 2nd to 3rd gear- 35 km/hr, 3rd to 4th gear- 60 km/hr, 4th to 5th gear- 80 km/hr."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the proper procedure for engaging the reverse gear?",
+        "response": "Engage the reverse gear only when the vehicle is stationary, fully depress the clutch pedal, wait for a few seconds, then engage the gear. If shifting does not occur, release the clutch pedal, press it again, and try engaging the reverse gear."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you brake when turning?",
+        "response": "Apply brakes gently while braking on turns to maintain control and avoid skidding."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do before driving down a long steep gradient?",
+        "response": "Reduce vehicle speed by changing to a lower gear and avoid riding the brakes to prevent them from overheating and losing effectiveness."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do after driving through water?",
+        "response": "After driving through water, apply the brakes a few times at low speed to remove moisture from inside the brake drums."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precautions should you take when it starts raining?",
+        "response": "Reduce vehicle speed and avoid sudden braking when it begins to rain."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what practices can improve fuel economy?",
+        "response": "Drive smoothly and accelerate gradually. Maintain low engine speeds in the highest possible gear without laboring the engine. Avoid driving with the accelerator pedal fully depressed. Do not idle the engine for more than 5 minutes. Do not ride the clutch or use it as a footrest. Maintain a constant speed depending on traffic conditions. Avoid hard braking, abrupt cornering, and rapid acceleration."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what gear should you select when driving on snowy or icy roads?",
+        "response": "You should select a lower gear when driving on snowy or icy roads to ensure better control and avoid wheel spin."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what additional equipment is recommended for driving on snowy or icy roads?",
+        "response": "The use of snow tyres and/or tyre chains is recommended for better traction on snowy or icy roads."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it important to maintain a safe distance between vehicles on snowy or icy roads?",
+        "response": "Maintaining a safe distance helps avoid sudden braking and reduces the risk of losing control due to slippery conditions."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be avoided to prevent loss of traction on icy or snowy roads?",
+        "response": "Avoid sudden acceleration, braking, or turning to prevent loss of traction and control of the vehicle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do before driving on sandy or muddy roads?",
+        "response": "Check the path conditions to gauge the extent of muddy or sandy areas and the traction available, proceeding cautiously if conditions are favorable."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what gear should you select when driving on sandy or muddy roads with sufficient traction?",
+        "response": "Select a lower gear to maintain better control and avoid getting stuck. Shift gears as needed to match power and speed requirements."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what adjustment can be made to the tyres for better grip on loose surfaces like sand or mud?",
+        "response": "You can reduce the tyre pressure slightly for additional grip, though this may result in a slight loss of ground clearance."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be avoided to prevent the vehicle from getting bogged down in loose sand or mud?",
+        "response": "Avoid sudden acceleration to prevent wheel spin, which can cause the vehicle's wheels to sink deeper into the loose material."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you avoid doing if your vehicle gets stuck in loose sand?",
+        "response": "Avoid continuous acceleration, as wheel spin can cause the wheels to dig deeper into the sand, making it more difficult to free the vehicle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should you avoid driving through water that flows over guard stones?",
+        "response": "Driving through water that flows over guard stones can lead to serious engine damage and is generally unsafe."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precaution should be taken when driving through deep water?",
+        "response": "Keep the engine at fast idle and crawl in low gear. After exiting the water, apply the brakes several times to dry the brake liners and restore braking efficiency."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you avoid doing if your vehicle gets flooded due to water?",
+        "response": "Do not attempt to start the engine if the vehicle is flooded. Instead, tow the vehicle to a safe location and take it to an authorized workshop for inspection."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what actions should be taken if water has entered the cylinders of a flooded vehicle?",
+        "response": "The vehicle should be taken to an authorized workshop to check for water entry in the cylinders. Lubricants in the engine, gearbox, transfer case, front axle, and rear axle should also be replaced if water has entered."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, which electrical components should be checked after a vehicle has been submerged in water?",
+        "response": "The starter and alternator should be checked after the vehicle has been submerged in water."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what checks should be performed on the vehicle before driving on a rainy day?",
+        "response": "Check the brakes, steering, windows, tyres for wear and pressure, and wiper blades for proper functioning."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be avoided while driving on wet roads to prevent loss of control?",
+        "response": "Avoid harsh braking and sharp turns, as they can lead to loss of control and skidding."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you slow down on wet roads to maintain control?",
+        "response": "Shift to lower gears and brake gently to slow down safely on wet roads."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do if visibility is poor while driving in the rain?",
+        "response": "Keep the vehicle's lights ON to improve visibility during poor weather conditions."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it important to dip the headlamp for oncoming traffic during night driving?",
+        "response": "Dipping the headlamp prevents blinding oncoming drivers, ensuring safer driving conditions for everyone on the road."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you adjust your speed during night driving?",
+        "response": "Maintain a speed that allows you to stop within the illuminated distance of your headlamps, ensuring you can respond to unexpected obstacles."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can headlamp beams and side indicators be used effectively at night?",
+        "response": "Use the headlamp's main/dip beam to alert other road users at turns or cross roads, and use side indicators for lane changes or turns."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when should you use the hazard warning switch?",
+        "response": "Use the hazard warning switch when parking hazardously or if your vehicle is disabled, to warn passing traffic."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what gear should be selected when starting to climb a steep gradient and why?",
+        "response": "Select a lower gear at the start to avoid the need for gear changes mid-climb, which can cause loss of momentum and engine stalling."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you avoid doing to maintain traction while climbing sharp gradients?",
+        "response": "Avoid over-revving the engine to prevent loss of traction and choose a smooth slope to maintain a steady climb."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should you avoid moving the vehicle diagonally across a hill?",
+        "response": "Moving diagonally increases the risk of traction loss and sideways slippage, potentially causing the vehicle to tip over."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what can be done if the wheels start to slip near the end of the climb?",
+        "response": "Swing the steered wheels left and right to provide increased grip and maintain motion."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you do if the vehicle stalls or loses headway while climbing?",
+        "response": "Quickly shift to reverse and allow the vehicle to move back under engine compression control."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be considered when selecting a gear while descending a sharp gradient?",
+        "response": "Select a lower gear to utilize engine braking, and choose a gear that avoids the need for gear changes or clutch disengagement during the descent."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should engine braking be used when descending a steep slope?",
+        "response": "Use engine braking judiciously without over-revving the engine to maintain control and reduce wear on the brakes."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it important to apply brakes smoothly when descending sharp gradients?",
+        "response": "Smooth braking helps maintain control of the vehicle, preventing loss of traction and potential accidents."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the best method for towing a vehicle and why?",
+        "response": "The best method is to use a recovery van to safely transport the vehicle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be used if a recovery van is not available for towing?",
+        "response": "Use a rigid tow bar instead of a flexible cable or rope to avoid the risk of crashing into the towing vehicle if it stops suddenly."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should the hazard warning switch be turned on while towing?",
+        "response": "To warn other road users of the towing situation, increasing safety for everyone on the road."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it recommended to keep the engine idling while being towed?",
+        "response": "Keeping the engine idling ensures that power steering assistance and brake vacuum are available, aiding in vehicle control."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it recommended for all car occupants to wear seat-belts when the car is in motion?",
+        "response": "Wearing seat-belts reduces the chance of injury and the severity of injury in case of an accident."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the risks associated with driving under the influence of alcohol or drugs?",
+        "response": "Alcohol and drugs impair reflex actions, reducing control of the car and increasing the risk of injury to the driver and others."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should mobile phones be avoided while driving?",
+        "response": "Using mobile phones can divert attention from the road, increasing the risk of accidents."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should drivers do if they feel tired or sleepy while driving long distances?",
+        "response": "Drivers should take rest and refresh themselves at regular intervals to avoid fatigue, which can dull reflexes and judgment."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precautions should be taken when parking on steep slopes?",
+        "response": "On uphill slopes, switch off the engine and shift the gear lever to a low forward gear. On downhill slopes, engage the reverse gear before parking. This helps prevent the vehicle from rolling."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it important to keep the windshield glass clean, and what precautions should be taken regarding the wipers?",
+        "response": "A clean windshield ensures clear visibility, which is crucial for safe driving. Wipers should not be operated on a dry windshield as this can damage the glass."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be checked to ensure proper functioning of the headlights, and why should high beams be used cautiously?",
+        "response": "Ensure headlight lenses are clean, check operation in both high and low beams, and verify correct focusing. High beams can dazzle oncoming drivers, increasing the risk of accidents."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it important to ensure that side indicators and hazard warning lights are always functional?",
+        "response": "They are crucial for signaling intentions and warning other drivers, which enhances safety."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the significance of ensuring that the horn is working properly?",
+        "response": "The horn is essential for alerting other road users to your presence, contributing to overall safety."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be checked in the brake system before driving, and what should you do if the brake warning lamp is 'ON'?",
+        "response": "Check the brake fluid level and ensure the brakes are functioning properly. Do not drive if the brake warning lamp is on, as it indicates a problem with the brake system."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is maintaining correct tyre pressure and checking tyre condition important, especially under extreme conditions?",
+        "response": "Proper tyre pressure and condition ensure safety and performance, especially under conditions like high speed, high load, and high temperatures. Worn or bald tyres should not be used, particularly on the front wheels."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should the first aid kit in the car be regularly checked and updated?",
+        "response": "To ensure that it is fully stocked and ready for use in case of minor injuries."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what documents should always be carried in the car, and why are they important?",
+        "response": "Car registration papers, insurance, a valid PUC certificate, and a driving license should always be carried as they are necessary for legal and safety reasons."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should the advance warning triangle be used in case of a vehicle breakdown, and why is it important?",
+        "response": "The triangle should be placed at least 50 meters behind the vehicle on the same lane, and 150 meters on a highway or when visibility is obscured, to warn approaching traffic of the stranded vehicle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when should engine oil be changed, and why is it important to drain the oil while it is hot?",
+        "response": "Engine oil should be changed at the recommended intervals. Draining the oil while it is hot ensures that contaminants are more effectively removed with the old oil."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the proper procedure for draining engine oil from the crankcase?",
+        "response": "Unscrew the engine sump drain plug and allow the oil to drain out fully. Refill the sump drain plug using a new sealing washer and tighten it to 4 mkg torque."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of oil filter does the engine use, and how should it be replaced?",
+        "response": "The engine uses a spin-on type oil filter, which cannot be reused and should be changed with every oil change. The new filter should be filled with fresh engine oil, the gasket should be smeared with oil, and the filter should be hand-tightened fully and then tightened an additional half turn with a special tool."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should the old oil filter be destroyed after removal?",
+        "response": "The old oil filter should be destroyed to prevent unscrupulous people from reselling it."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done after installing a new oil filter and refilling the sump drain plug?",
+        "response": "Fill the engine crankcase with the specified quantity of fresh engine oil, start the engine and run it for a few minutes, then stop the engine and re-check the oil level after approximately 20 minutes. Top up if the oil level is below the midpoint between the upper and lower marks on the dipstick."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when should the air filter element be cleaned or replaced, and how is it done?",
+        "response": "The air filter element should be cleaned periodically and replaced if the air cleaner service indicator shows a red band even after cleaning. The filter is cleaned by gently tapping and rolling it on a table, checking for punctures or pinholes, and replacing it if damaged."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you reset the air filter service indicator, and what should you do if the red band reappears after starting the engine?",
+        "response": "The service indicator is reset by pressing the rubber cap, causing the red band to disappear. If the red band reappears after starting the engine, the paper filter element should be replaced with a new one, and the service indicator should be reset again."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the procedure for draining water and sediments from the fuel filter bowls in CR-4 systems?",
+        "response": "Loosen the drain plugs by 1-2 turns to drain water and sediments from the fuel filter bowls. This should be done regularly to prevent water from entering the fuel system."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when and how should the priming pump or pear pump be used in CR-4 systems?",
+        "response": "The priming pump or pear pump should be used to manually prime the fuel system after overhauling the engine, refitting fuel lines, or changing the fuel filter or sedimenter. Pump the fuel until all air is removed from the fuel line. Ensure there is no air in the fuel system before cranking the engine."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should not be done when bleeding air from the fuel system in DICOR engines, and why?",
+        "response": "Do not loosen the high-pressure (HP) lines in the DICOR system when bleeding air from the fuel system, as this can lead to improper operation or damage."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what steps should be followed to replace the fuel filter element in a 4SPTC system?",
+        "response": "First, unscrew the drain plug and drain the fuel from the fuel bowls. Remove the fuel filter with the top cover from the mounting bracket, unscrew the fuel filter bowl mounting bolt, and replace the bowl with the element. The fuel tank side filter element should also be replaced at specified intervals, along with the FIP side filter element. Finally, reassemble the fuel filter and refit it on the mounting bracket."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you prime the fuel system in a 4SPTC engine, and what should you do if erratic fuel supply persists?",
+        "response": "To prime the fuel system, unscrew the fuel lift pump plunger knob and pull and push it 10-14 times (or 30-40 times if the fuel tank has been completely emptied). Then, tighten the fuel lift pump plunger knob and start the engine, checking for smooth running. If erratic fuel supply persists, check for air suction in the fuel pipeline from the fuel tank to the FIP and rectify any issues."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the proper method for checking and adjusting the fan belt tension, and what should be done if the tension is incorrect?",
+        "response": "To check the fan belt tension, examine the belts on the engine for cracks or fraying and check the tension by pushing on the belt with your thumb. The deflection should be 8 to 10 mm. If the belt tension is not proper, it should be adjusted at the nearest authorized service outlet."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be checked and ensured before starting the bleeding process of the clutch system?",
+        "response": "Before starting the bleeding process, ensure that the fluid level in the clutch fluid container is up to the maximum level."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should you prepare the slave cylinder bleed screw and the bleeding tube for the bleeding process?",
+        "response": "Remove the dust cap from the slave cylinder bleed screw and clean the screw thoroughly. Then, attach the bleeding tube to the bleed screw and place the other end of the tube in a clean glass jar containing sufficient clutch fluid to submerge the tube end, holding the jar just above the bleed screw level."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the correct procedure for pumping the clutch pedal during the bleeding process?",
+        "response": "Pump the clutch pedal slowly twice or thrice throughout its stroke, and while holding the clutch pedal in the depressed condition, loosen the bleed screw on the slave cylinder to check for air bubbles in the glass jar."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how do you know when to stop the bleeding process, and what should be observed in the glass jar?",
+        "response": "The bleeding process should be repeated until air bubbles cease to appear in the glass jar, indicating that only fluid is flowing through the tube."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what steps should be taken after the bleeding process is complete?",
+        "response": "After completing the bleeding process, ensure that the bleed screw on the slave cylinder is fully tightened and replace the dust cap on the bleed screw. Also, keep a watch on the fluid level in the container and top it up if necessary."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are some possible reasons for engine overheating as mentioned in the cooling system section?",
+        "response": "Engine overheating could be due to less coolant in the system, accumulation of dirt/scale inside coolant passages, choking of radiator passages, a defective/stuck thermostat, a loose fan drive belt, or coolant leakage."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what specification should the radiator cap meet, and why is it important?",
+        "response": "The radiator cap should be genuine and rated at 1.0 kg/cm² (14 psi). It is important because a proper radiator cap firmly fitted maintains pressure in the cooling system."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be used in the cooling system to prevent rust formation, and what should be ensured about the coolant level?",
+        "response": "Genuine co-branded premixed coolant should be used to prevent rust formation and freezing inside the crankcase passages. The coolant should be filled up to the 'FULL' mark in the engine coolant auxiliary tank."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the steps to change the coolant in the cooling system?",
+        "response": "The steps include draining the cooling system, flushing it with clean water, pouring genuine co-branded coolant into the radiator until full, starting the engine and topping up the radiator, filling the auxiliary tank up to the 'FULL' mark, and ensuring no leakage in the system."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the advantage of the dual circuit service brake system mentioned in the brake system section?",
+        "response": "The dual circuit service brake system ensures that one circuit will continue to provide braking action if the other circuit fails, maintaining some braking capability."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what happens if there is a loss of brake fluid in one circuit of the dual circuit service brake system?",
+        "response": "Loss of brake fluid in one circuit will require more pedal pressure and pedal travel to stop the vehicle, and the stopping distance will be longer."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the function of vacuum assistance in the brake system, and what should be noted if it fails?",
+        "response": "Vacuum assistance in the brake system helps reduce the effort needed to stop the vehicle. If the vacuum fails, the vehicle can still be stopped, but with a higher effort required."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of brakes are fitted on the front and rear wheels, and what is their adjustment characteristic?",
+        "response": "The front wheels are fitted with disc brakes, and the rear wheels are fitted with drum brakes. Both types of brakes are self-adjusting and generally do not require manual adjustment."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done if the brake pedal goes down excessively while applying the brake?",
+        "response": "If the brake pedal goes down excessively, it is recommended to contact an authorised service outlet for inspection and adjustment."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the steps to adjust the parking brake?",
+        "response": "Put chocks on the front wheels. Jack up the rear axle. Loosen check nut (2) and pull the parking brake lever up to the second notch. Tighten the parking brake adjustment nut (1) until the rear wheels start jamming and cannot be rotated. Release the parking brake and ensure that the wheels rotate freely, then tighten check nut (2). Operate the parking brake a few times to ensure proper operation. Lower down the rear axle. Remove the chocks from the front wheels."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be ensured after releasing the parking brake adjustment?",
+        "response": "After releasing the parking brake, ensure that both rear wheels are free and rotate without obstruction."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it important to use only the recommended size of wheel rims and tyres?",
+        "response": "Using only the recommended size of wheel rims and tyres ensures vehicle safety and compliance with motor vehicle regulations. Using non-recommended rims and tyres may have adverse effects on safety and legal compliance."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should the jack be placed when changing front and rear tyres?",
+        "response": "When changing front tyres, the jack should be placed below the chassis long member behind the front wheel. For changing rear tyres, the jack should be placed before the rear wheel."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done if uneven tyre wear is noticed?",
+        "response": "If uneven tyre wear is observed, the vehicle should be examined and attended to by a TATA MOTORS authorised workshop."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the recommended tyre pressures for 215/75 R15 LT tyres (CR-4) and (4SPTC) for different driving conditions?",
+        "response": "For 215/75 R15 LT Tyres (CR-4): For Ride: 32 psi (Front/Rear), For Fuel Economy: 35 psi (Front/Rear). For 215/75 R15 LT Tyres (4SPTC): For Ride: 32 psi (Front/Rear), For Fuel Economy: 35 psi (Front/Rear)."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be periodically checked to obtain longer tyre life?",
+        "response": "Periodically check and maintain the correct tyre pressure to obtain longer tyre life."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done periodically to ensure tyre safety and performance?",
+        "response": "Periodically check tyres for damage and remove any foreign bodies such as nails, stones, or metal chips embedded in the treads."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should wheel bolts be maintained to ensure proper fitting of wheels?",
+        "response": "Ensure wheel bolts are free from dust, scratches, dirt, dents, etc. Do not oil wheel bolts and nuts. Wipe off any adhering oil from the bolts and nuts."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the recommended tightening torque for wheel nuts, and how often should they be retightened?",
+        "response": "The recommended tightening torque for wheel nuts is 12-15 mkg. They should be retightened after 100 km of every wheel change."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should new tyres be run-in at moderate speeds for the first 100 km?",
+        "response": "New tyres should be run-in at moderate speeds for the first 100 km to help them achieve maximum grip and to make them last longer."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precaution should be taken to avoid damage to tyres and wheels?",
+        "response": "To avoid damage to tyres and wheels, drive slowly over speed breakers, bumps, and rough roads."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done to maintain wheel balance when repairing or replacing a tyre or rim?",
+        "response": "Ensure that wheel balancing is maintained when repairing a tyre or tube, and when replacing a tyre or rim."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be checked and marked when repairing a tyre or tube?",
+        "response": "Mark the tyre position relative to the valve stem hole if the original colour dot mark is not visible. Ensure balancing weights are not disturbed during removal, and mark their location if found loose before refitting properly."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the permissible imbalances and balance weights for a tyre with rim, and how should balancing be done?",
+        "response": "Permissible Imbalance: 250 gm-cm max. Permissible Balance Weight: 140 gm max. If more weight is required to balance the tyre, relocate the tyre. Use balance weights ranging from 10 gm to 90 gm in 10 gm steps, and from 80 gm to 140 gm in 20 gm steps. Do not use more than one balance weight on a side."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is tyre rotation recommended for a vehicle?",
+        "response": "Tyre rotation is recommended to achieve identical wear on each tyre, prevent abnormal wear, and relieve tyres from continual one-way rotation."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, when should tyres be rotated, and how frequently thereafter?",
+        "response": "Tyres should be rotated first at 12,000 km, and then at every 8,000 km or earlier, depending on operation."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the two types of light beams provided by headlamps, and their uses?",
+        "response": "The headlamp provides a high beam for maximum light ahead of the vehicle and a low beam for shorter, lower light to avoid dazzling oncoming drivers and for use in low visibility areas."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it important to check the alignment of headlamp beams, and when should it be done?",
+        "response": "It is important to check the alignment of headlamp beams to ensure maximum road safety, proper road illumination, and reduced glare to oncoming traffic. It should be checked periodically and whenever headlamp bulbs are replaced."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should headlamp focus be adjusted using a screen?",
+        "response": "Park the vehicle 10 meters away from the screen, with its center in line with the central vertical line on the screen. The screen should be at a right angle to the longitudinal axis of the vehicle. The vehicle should be in an unloaded condition with no sag in the suspension springs and all tyres equally inflated. On the marked screen, the area above the horizontal and inclined lines (shaded) is called the 'Dark Zone', and the area below it is called 'The Illuminated Zone'."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should each headlamp be adjusted individually during alignment?",
+        "response": "Each headlamp should be adjusted individually by masking the other headlamp. The low beam's height is adjusted using the knob at the top of the headlamp, ensuring that light falls below the horizontal and inclined lines. Lateral adjustment is done with the bottom knob, aligning the contour of the low beam with the horizontal and inclined lines below the 'Dark Zone'."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what indicates proper adjustment of the headlamp beams?",
+        "response": "Proper adjustment is indicated when the most brightly illuminated area falls just below the intersection point 'A' of the horizontal and inclined lines."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be the position of high beams after adjusting the headlamps?",
+        "response": "High beams should be symmetrical above points 'A' and 'B' of the intersection of the vehicle lines and horizontal lines."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the steps for replacing a headlamp bulb?",
+        "response": "Raise the vehicle's bonnet. Remove the rear protective cover of the headlamp. Pull out the cable socket from the bulb. Remove the lock ring holding the bulb and take out the bulb. Install the new bulb, ensuring proper placement in the housing. Reattach the lock ring, cable socket, and protective cover."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done after replacing the headlamp bulb?",
+        "response": "After replacing the headlamp bulb, the headlamp beam should be realigned to ensure proper adjustment."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precautions should be taken while handling headlamp bulbs?",
+        "response": "Do not clean the reflector as it may damage the mirror-finished surface. Do not handle the bulb with dirty or oily hands, as oil can evaporate due to bulb heat and stain the reflector."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the purpose of fuses in the vehicle?",
+        "response": "Fuses protect the cable harness and other equipment from damage in case of short circuits and overloads."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can the amperage of a fuse be identified?",
+        "response": "The amperage of a fuse can be identified by color codes: Red (10 Amps), Blue (15 Amps), Light Brown (5 Amps), Green (20 Amps), and Orange (25 Amps)."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done if a fuse is found defective?",
+        "response": "If a fuse is defective, it should be replaced with a fuse of the same rating. Always ensure that the fuse rating matches the original one."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can the fuse and relay boxes be located in the vehicle?",
+        "response": "The fuse and relay boxes can be located in the engine compartment near the battery and in the cabin behind the dashboard. The exact location may vary depending on the vehicle model."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the importance of using the correct fuse rating?",
+        "response": "Always use fuses of the correct rating to prevent damage to the electrical system. Using a wire in place of a fuse is not recommended."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what happens if the flasher circuit is short-circuited or overloaded?",
+        "response": "If the flasher circuit is short-circuited or overloaded (more than 110 W), the flasher will shut off."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how can the flasher be reset after a shutdown?",
+        "response": "The flasher can be reset by momentarily centering the indicator arm of the combination switch."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be checked if the flasher shuts off repeatedly or if the fuse blows off repeatedly?",
+        "response": "The flasher circuit should be checked for a short circuit, and the flasher itself should be checked for proper functioning."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why should volatile solvents like thinner, petrol, or strong household detergents not be used for cleaning the vehicle?",
+        "response": "These materials may be poisonous or flammable, and their improper use can cause personal injury or damage to the vehicle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should dirt be removed from the floor mats of the vehicle?",
+        "response": "Dirt should be removed using water and mild soap, along with a brush to help loosen the dirt. The mats should then be thoroughly washed with water and dried in the shade."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the recommended method for cleaning seat belts?",
+        "response": "Seat belts should be cleaned with mild soap and water only, without using bleach or dye, as these can weaken the belt fabric. The belts should be allowed to dry in the shade."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should upholstery be cleaned in the vehicle?",
+        "response": "A solution of soap or neutral detergent mixed with warm water should be applied with a sponge or soft cloth and allowed to soak for a few minutes. The surface should then be wiped with a clean, damp cloth to remove dirt and the soap solution. The process should be repeated if necessary."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what steps should be taken to clean carpets in the vehicle?",
+        "response": "Dirt should be removed using a vacuum cleaner. Stains should be rubbed with a damp cloth using soap, and then the soap should be removed. This process should be repeated until the stain is gone. Commercially available carpet cleaners can also be used, following the manufacturer's instructions and precautions."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you avoid doing with the RFID TAG pasted on the front windshield from the inside?",
+        "response": "Do not attempt to rip or tamper with the RFID TAG, as this will disable its functionality."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the recommended method for cleaning the windows inside and outside of the vehicle?",
+        "response": "Clean the windows using commercially available glass cleaners and a soft cloth or paper towels to remove haze and dirt from all glass and plastic surfaces."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it important to keep the vehicle clean and free from dirt?",
+        "response": "Keeping the vehicle clean helps maintain the paint in good condition, prevents rust on the body due to deteriorated paint film, and avoids rust from scratches or damp dirt trapped in the body."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done to clean the underside of the vehicle and wheel housing?",
+        "response": "The underside of the body and wheel housing should be flushed with pressurized water to remove mud and debris."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how should the exterior of the vehicle be washed to avoid damaging the paint?",
+        "response": "Use a soft sponge or brush with water to gently remove dirt and mud, avoiding hard materials that could scratch the paint. Frequently soak the sponge or cloth in water during cleaning."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done after washing the vehicle's exterior with water?",
+        "response": "After washing, rinse off with running hose water, then wipe the body lightly with a wet chamois or cloth and allow it to dry in the shade."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what precautions should be taken when using commercial wash products on the vehicle?",
+        "response": "Observe the manufacturer's precautions when using commercial wash products and avoid using strong household detergents or soaps."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should you check and do after washing your vehicle to ensure safety?",
+        "response": "After washing, check that the brakes are dry. If they are not, dry them by gently, repeatedly applying the brakes while driving at low speeds."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it recommended to wax and polish the vehicle after washing, and what should be considered when doing so?",
+        "response": "Waxing and polishing protect and beautify the paint. Use only good quality waxes and polishes, and follow the precautions specified by the manufacturers. Chrome plated parts should also be waxed."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are some common causes of corrosion on a vehicle?",
+        "response": "Corrosion can be caused by moisture trapped in body cavities, dirt and salts collected in hollows on the underside of the vehicle, and the removal of paint and protective coatings from the exterior and underside of the vehicle."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are some preventive measures to avoid corrosion on the vehicle?",
+        "response": "Preventive measures include repairing chips and scratches in the paint promptly, inspecting and cleaning the drain holes in the bottom of the doors and body, checking for dampness under floor coverings, and using a high-pressure spray to clean the vehicle's underside, especially near chemical and industrial areas."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what additional step can be taken to protect the vehicle's underside from corrosion?",
+        "response": "Have corrosion preventive coatings applied to the underside of the vehicle using Tata Motors co-branded anti-corrosive treatment."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of fuel is recommended for the vehicle, and what standards should it conform to?",
+        "response": "The recommended fuel is high-speed diesel conforming to IS 1460, EN 590, or an equivalent standard."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what supplementary fuel can be mixed with diesel at low temperatures, and why is it necessary?",
+        "response": "Kerosene or aviation turbine fuel can be mixed with diesel at low temperatures to maintain fluidity, preventing paraffin separation in the diesel."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the recommended mixing ratios of supplementary fuel to diesel for different ambient temperatures?",
+        "response": "For summer grade diesel up_to_0°C: 100% diesel, 0% supplementary fuel ,0°C_to_-10°C: 70% diesel, 30% supplementary fuel,-10°C_to_-15°C: 50% diesel, 50% supplementary fuel. For winter grade diesel : up_to_-15°C: 100% diesel, 0% supplementary fuel,-15°C_to_-20°C: 70% diesel, 30% supplementary fuel ,below_-20°C: 50% diesel, 50% supplementary fuel."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should not be mixed with diesel fuel, and what are the potential consequences?",
+        "response": "Gasoline or alcohol should not be mixed with diesel fuel as this mixture can cause an explosion."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the required sulphur content in diesel fuel for vehicles equipped with an oxidation catalytic converter?",
+        "response": "The sulphur content must be 0.035% for BS-IV vehicles and 0.05% for BS-III vehicles."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it crucial to keep the diesel fuel clean and free of dirt or water, and what should not be added to the fuel?",
+        "response": "Keeping the fuel clean and free of dirt or water is crucial because impurities can cause severe damage to the Common Rail system. Fuel additives should not be added to the diesel."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what characteristics should the fuel have concerning the cloud point and viscosity?",
+        "response": "The fuel should have a cloud point at least 10 degrees below the lowest expected fuel temperature at which wax crystals begin to form. The viscosity of the fuel must be kept above 1.0 centistokes to provide adequate lubrication for the fuel system at 40°C."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the recommended specifications for engine oil, and at what ambient temperature ranges should they be used?",
+        "response": "The recommended engine oil specifications are SAE 15W40 for API CH4 (for CR-4) and SAE 10W/30 or SAE 5W/20 for API CF4 (for 4SPTC). SAE 15W40 is used at ambient temperatures of 10°C and above, while SAE 10W/30 or SAE 5W/20 can be used from -20°C to above."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the recommended specifications for gearbox oils in BS-IV and BS-III vehicles?",
+        "response": "For BS_IV_vehicles 75W90 Synthetic GL-4 is used. For BS_III_vehicles 80W90 with 7% Anglomol is used."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of oil is recommended for the rear axle and mechanical steering gearbox?",
+        "response": "The recommended oil is SAE 85W140 API GL-5."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the recommended oil type for power steering?",
+        "response": "The recommended oil is ATF DEXTRON-IID."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how often should the engine oil be changed according to the maintenance schedule?",
+        "response": "The engine oil should be changed according to the intervals specified in the vehicle's maintenance schedule."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of grease is recommended for hub bearings, and what is the quantity needed per hub?",
+        "response": "Lithium-based multipurpose grease is recommended, with 25 grams per hub for the rear."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of fluid is recommended for brakes and clutch systems?",
+        "response": "Brake fluid conforming to IS: 8654/DOT 3 is recommended."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of grease should be used for lubricating the Spicer propeller shaft's slip joint?",
+        "response": "Multipurpose grease - 2 grade grease should be used."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, how often should the steering spindle ball joint be lubricated, and with what type of grease?",
+        "response": "The steering spindle ball joint should be lubricated every 10,000 km with Moly Kote - BR 2 grease."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what type of coolant is recommended, and what is the maintenance interval for changing it?",
+        "response": "Branded premixed coolant is recommended to prevent rust formation and freezing in the coolant system. The coolant should be drained and replaced every two years or 50,000 km, whichever comes first."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what are the kilometer ranges and time intervals for the free services provided for the vehicle?",
+        "response": "1st_Free_Service at 1000 - 1,500 km or 1 month, whichever is earlier. 2nd_Free_Service t 14,500 - 15,500 km or 12 months, whichever is earlier. 3rd_Free_Service at 29,500 - 30,500 km or 24 months, whichever is earlier."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what should be done with the service coupons after each service is performed?",
+        "response": "The service coupons should be detached and sent to Customer Support, Passenger Car Division, Tata Motors, Pune - 410062 by the servicing dealer after the service is performed."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is the condition for availing free services regarding labor and materials?",
+        "response": "Labor for the pre-delivery and subsequent four free services is free, but materials, if any, will be charged. All other services must be paid for both materials and labor."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what happens if a scheduled service is not performed within the specified kilometers?",
+        "response": "The respective coupons will be detached by the Authorized Dealer's Workshop when the vehicle is sent to them next. All the works listed for the missed service must be performed when the vehicle is next taken to the workshop."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, what is required for warranty claims to be entertained?",
+        "response": "All services up to the time of the claim must have been performed on the vehicle by an Authorized Dealer's / TASC's / TASP's Workshop."
+    },
+    {
+        "prompt": "In Tata Sumo Gold, why is it recommended to take the vehicle to an Authorized Dealer's, TASC's, or TASP's Workshop for servicing?",
+        "response": "Authorized Workshops are equipped with special tools, trained personnel, and genuine spare parts, ensuring expert advice and service for the vehicle."
+    }
+]
